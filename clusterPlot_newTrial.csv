@@ -1,0 +1,455 @@
+trtModel,,,,,,c57Model,,,,,,,,,,Match
+HMR_7108, <=> benzo[a]pyrene_C20H12 ,-1000,1000,0,Exchange reactions,HMR_7108,Exchange reactions, <=> m01374s[C_s] ,0,'<=>benzo[a]pyrene_C20H12',-1000,1000,0,Exchange reactions,,1
+HMR_7110, <=> naphthalene_C10H8 ,-1000,1000,0,Exchange reactions,HMR_7110,R_HMR_7110, <=> m02556s[C_s] ,0,'<=>naphthalene_C10H8',-1000,1000,0,Exchange reactions,,2
+HMR_7112, <=> aflatoxin B1_C17H12O6 ,-1000,1000,0,Exchange reactions,HMR_7112,R_HMR_7112, <=> m01296s[C_s] ,0,'<=>aflatoxinB1_C17H12O6',-1000,1000,0,Exchange reactions,,3
+HMR_7114, <=> trichloroethene_C2HCl3 ,-1000,1000,0,Exchange reactions,HMR_7114,R_HMR_7114, <=> m03044s[C_s] ,0,'<=>trichloroethene_C2HCl3',-1000,1000,0,Exchange reactions,,4
+HMR_7116, <=> bromobenzene_C6H5Br ,-1000,1000,0,Exchange reactions,HMR_7116,R_HMR_7116, <=> m01403s[C_s] ,0,'<=>bromobenzene_C6H5Br',-1000,1000,0,Exchange reactions,,5
+HMR_7118," <=> ""7,12-dimethylbenz[a]anthracene_C20H16"" ",-1000,1000,0,Exchange reactions,HMR_7118,R_HMR_7118, <=> m01174s[C_s] ,0,"'<=>7,12-dimethylbenz[a]anthracene_C20H16'",-1000,1000,0,Exchange reactions,,6
+HMR_7120, <=> 4-(n-nitrosomethylamino)-1-(3-pyridyl)-1-butanone_C10H13N3O2 ,-1000,1000,0,Exchange reactions,HMR_7120,R_HMR_7120, <=> m00932s[C_s] ,0,'<=>4-(n-nitrosomethylamino)-1-(3-pyridyl)-1-butanone_C10H13N3O2',-1000,1000,0,Exchange reactions,,7
+HMR_7122, <=> 1-nitronaphthalene_C10H7NO2 ,-1000,1000,0,Exchange reactions,HMR_7122,R_HMR_7122, <=> m00545s[C_s] ,0,'<=>1-nitronaphthalene_C10H7NO2',-1000,1000,0,Exchange reactions,,8
+HMR_7124," <=> ""1,1-dichloroethylene_C2H2Cl2"" ",-1000,1000,0,Exchange reactions,HMR_7124,R_HMR_7124, <=> m00228s[C_s] ,0,"'<=>1,1-dichloroethylene_C2H2Cl2'",-1000,1000,0,Exchange reactions,,9
+HMR_7126," <=> ""1,2-dibromoethane_C2H4Br2"" ",-1000,1000,0,Exchange reactions,HMR_7126,R_HMR_7126, <=> m00242s[C_s] ,0,"'<=>1,2-dibromoethane_C2H4Br2'",-1000,1000,0,Exchange reactions,,10
+HMR_9034,glucose_C6H12O6  <=> ,-1000,1000,1000,Exchange reactions,HMR_9034,R_HMR_9034,m01965s[C_s]  <=> ,0,'glucose_C6H12O6<=>',-1000,1000,4.856690172,Exchange reactions,,11
+HMR_9049,VLDL  -> ,0,1000,0,Exchange reactions,HMR_9049,R_HMR_9049,m03147r[C_r]  -> ,0,'VLDL->',0,1000,0,Exchange reactions,,12
+HMR_9029, -> VLDL remnant ,0,1000,0.011804054,Exchange reactions,HMR_9029,R_HMR_9029, -> m03146s[C_s] ,0,'->VLDLremnant',0,1000,0.001669029,Exchange reactions,,13
+HMR_9032, -> SMCFA-blood-pool_CHO2R ,0,1000,0,Exchange reactions,HMR_9032,R_HMR_9032, -> m02909s[C_s] ,0,'->SMCFA-blood-pool_CHO2R',0,1000,0,Exchange reactions,,14
+HMR_9033, <=> NEFA blood pool in_CHO2R ,-1000,1000,172.9360943,Exchange reactions,HMR_9033,R_HMR_9033, <=> m02560s[C_s] ,0,'<=>NEFAbloodpoolin_CHO2R',-1000,1000,4.177013699,Exchange reactions,,15
+HMR_9035, -> linoleate_C18H32O2 ,0,1000,0,Exchange reactions,HMR_9035,R_HMR_9035, -> m02387s[C_s] ,0,'->linoleate_C18H32O2',0,1000,0,Exchange reactions,,16
+HMR_9036, -> linolenate_C18H30O2 ,0,1000,25.80445286,Exchange reactions,HMR_9036,R_HMR_9036, -> m02389s[C_s] ,0,'->linolenate_C18H30O2',0,1000,0.012049818,Exchange reactions,,17
+HMR_9038, -> ,0,1000,0,Exchange reactions,HMR_9038,R_HMR_9038, -> m02125s[C_s] ,0,'->histidine_C6H9N3O2',0,1000,25.95358534,Exchange reactions,,18
+HMR_9039, -> ,0,1000,0,Exchange reactions,HMR_9039,R_HMR_9039, -> m02184s[C_s] ,0,'->isoleucine_C6H13NO2',0,1000,10.68677044,Exchange reactions,,19
+HMR_9040, -> ,0,1000,0,Exchange reactions,HMR_9040,R_HMR_9040, -> m02360s[C_s] ,0,'->leucine_C6H13NO2',0,1000,120.6078378,Exchange reactions,,20
+HMR_9041, -> ,0,1000,0,Exchange reactions,HMR_9041,R_HMR_9041, -> m02426s[C_s] ,0,'->lysine_C6H14N2O2',0,1000,58.01389665,Exchange reactions,,21
+HMR_9042, -> ,0,1000,0,Exchange reactions,HMR_9042,R_HMR_9042, -> m02471s[C_s] ,0,'->methionine_C5H11NO2S',0,1000,29.00694832,Exchange reactions,,22
+HMR_9043, -> ,0,1000,0,Exchange reactions,HMR_9043,R_HMR_9043, -> m02724s[C_s] ,0,'->phenylalanine_C9H11NO2',0,1000,29.00694832,Exchange reactions,,23
+HMR_9044, -> ,0,1000,0,Exchange reactions,HMR_9044,R_HMR_9044, -> m02993s[C_s] ,0,'->threonine_C4H9NO3',0,1000,1000,Exchange reactions,,24
+HMR_9045, -> ,0,1000,0,Exchange reactions,HMR_9045,R_HMR_9045, -> m03089s[C_s] ,0,'->tryptophan_C11H12N2O2',0,1000,13.74013342,Exchange reactions,,25
+HMR_9046, -> ,0,1000,0,Exchange reactions,HMR_9046,R_HMR_9046, -> m03135s[C_s] ,0,'->valine_C5H11NO2',0,1000,699.0721561,Exchange reactions,,26
+HMR_9048, -> ,0,1000,0,Exchange reactions,HMR_9048,R_HMR_9048, -> m02630s[C_s] ,0,'->O2_O2',0,1000,1000,Exchange reactions,,27
+HMR_9058, -> ,0,1000,0,Exchange reactions,HMR_9058,R_HMR_9058,m01596s[C_s]  -> ,0,'CO2_CO2->',0,1000,1000,Exchange reactions,,28
+HMR_9061, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9061,R_HMR_9061, <=> m01307s[C_s] ,0,'<=>alanine_C3H7NO2',-1000,1000,-1000,Exchange reactions,,29
+HMR_9062, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9062,R_HMR_9062, <=> m01369s[C_s] ,0,'<=>asparagine_C4H8N2O3',-1000,1000,16.7934964,Exchange reactions,,30
+HMR_9063, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9063,R_HMR_9063, <=> m01975s[C_s] ,0,'<=>glutamine_C5H10N2O3',-1000,1000,41.22040025,Exchange reactions,,31
+HMR_9064, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9064,R_HMR_9064, <=> m03101s[C_s] ,0,'<=>tyrosine_C9H11NO3',-1000,1000,35.11367429,Exchange reactions,,32
+HMR_9065, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9065,R_HMR_9065, <=> m01628s[C_s] ,0,'<=>cysteine_C3H7NO2S',-1000,1000,-123.1624499,Exchange reactions,,33
+HMR_9066, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9066,R_HMR_9066, <=> m01365s[C_s] ,0,'<=>arginine_C6H14N4O2',-1000,1000,518.6866463,Exchange reactions,,34
+HMR_9067, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9067,R_HMR_9067, <=> m01986s[C_s] ,0,'<=>glycine_C2H5NO2',-1000,1000,1000,Exchange reactions,,35
+HMR_9068, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9068,R_HMR_9068, <=> m02770s[C_s] ,0,'<=>proline_C5H9NO2',-1000,1000,-943.5127848,Exchange reactions,,36
+HMR_9069, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9069,R_HMR_9069, <=> m02896s[C_s] ,0,'<=>serine_C3H7NO3',-1000,1000,1000,Exchange reactions,,37
+HMR_9070, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9070,R_HMR_9070, <=> m01370s[C_s] ,0,'<=>aspartate_C4H7NO4',-1000,1000,-1000,Exchange reactions,,38
+HMR_9071, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9071,R_HMR_9071, <=> m01974s[C_s] ,0,'<=>glutamate_C5H9NO4',-1000,1000,562.2517578,Exchange reactions,,39
+HMR_9072, <=> Pi_H3PO4 ,-1000,1000,0,Exchange reactions,HMR_9072,R_HMR_9072, <=> m02751s[C_s] ,0,'<=>Pi_H3PO4',-1000,1000,0,Exchange reactions,,40
+HMR_9076, <=> Fe2+_Fe ,-1000,1000,0,Exchange reactions,HMR_9076,R_HMR_9076, <=> m01821s[C_s] ,0,'<=>Fe2+_Fe',-1000,1000,-1000,Exchange reactions,,41
+HMR_9073, <=> NH3_NH3 ,-1000,1000,-1000,Exchange reactions,HMR_9073,R_HMR_9073, <=> m02578s[C_s] ,0,'<=>NH3_NH3',-1000,1000,-969.2049913,Exchange reactions,,42
+HMR_9078, <=> HCO3-_CHO3 ,-1000,1000,-1000,Exchange reactions,HMR_9078,R_HMR_9078, <=> m02046s[C_s] ,0,'<=>HCO3-_CHO3',-1000,1000,-1000,Exchange reactions,,43
+HMR_9074, <=> sulfate_H2SO4 ,-1000,1000,-1000,Exchange reactions,HMR_9074,R_HMR_9074, <=> m02946s[C_s] ,0,'<=>sulfate_H2SO4',-1000,1000,288.1563665,Exchange reactions,,44
+HMR_9075, <=> urate_C5H4N4O3 ,-1000,1000,0,Exchange reactions,HMR_9075,R_HMR_9075, <=> m03120s[C_s] ,0,'<=>urate_C5H4N4O3',-1000,1000,0,Exchange reactions,,45
+HMR_9096, <=> Fe3+_Fe ,-1000,1000,0,Exchange reactions,HMR_9096,R_HMR_9096, <=> m01822s[C_s] ,0,'<=>Fe3+_Fe',-1000,1000,107.8216726,Exchange reactions,,46
+HMR_9079, <=> H+_H ,-1000,1000,1000,Exchange reactions,HMR_9079,R_HMR_9079, <=> m02039s[C_s] ,0,'<=>H+_H',-1000,1000,-895.6159695,Exchange reactions,,47
+HMR_9077, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9077,R_HMR_9077, <=> m02519s[C_s] ,0,'<=>Na+_Na',-1000,1000,0,Exchange reactions,,48
+HMR_9081, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9081,R_HMR_9081, <=> m02200s[C_s] ,0,'<=>K+_K',-1000,1000,0,Exchange reactions,,49
+HMR_9083, -> ,0,1000,0,Exchange reactions,HMR_9083,R_HMR_9083, -> m01513s[C_s] ,0,'->choline_C5H14NO',0,1000,0,Exchange reactions,,50
+HMR_9084, -> ethanolamine_C2H7NO ,0,1000,0,Exchange reactions,HMR_9084,R_HMR_9084, -> m01797s[C_s] ,0,'->ethanolamine_C2H7NO',0,1000,0,Exchange reactions,,51
+HMR_9361, -> ,0,1000,0,Exchange reactions,HMR_9361,R_HMR_9361, -> m02171s[C_s] ,0,'->inositol_C6H12O6',0,1000,1.527455152,Exchange reactions,,52
+HMR_9145, <=> pantothenate_C9H17NO5 ,-1000,1000,0,Exchange reactions,HMR_9145,R_HMR_9145, <=> m02680s[C_s] ,0,'<=>pantothenate_C9H17NO5',-1000,1000,1.526681491,Exchange reactions,,53
+HMR_9086, -> ,0,1000,0,Exchange reactions,HMR_9086,R_HMR_9086, -> m01252s[C_s] ,0,'->acetate_C2H4O2',0,1000,0,Exchange reactions,,54
+HMR_9085, <=> glycerol_C3H8O3 ,-1000,1000,0,Exchange reactions,HMR_9085,R_HMR_9085, <=> m01983s[C_s] ,0,'<=>glycerol_C3H8O3',-1000,1000,-1.73575841,Exchange reactions,,55
+HMR_9087, <=> ornithine_C5H12N2O2 ,-1000,1000,1000,Exchange reactions,HMR_9087,R_HMR_9087, <=> m02658s[C_s] ,0,'<=>ornithine_C5H12N2O2',-1000,1000,543.9072948,Exchange reactions,,56
+HMR_9091, <=> 4-aminobutyrate_C4H9NO2 ,-1000,1000,0,Exchange reactions,HMR_9091,R_HMR_9091, <=> m00970s[C_s] ,0,'<=>4-aminobutyrate_C4H9NO2',-1000,1000,0,Exchange reactions,,57
+HMR_9088, <=> sulfite_H2SO3 ,-1000,1000,1000,Exchange reactions,HMR_9088,R_HMR_9088, <=> m02949s[C_s] ,0,'<=>sulfite_H2SO3',-1000,1000,0,Exchange reactions,,58
+HMR_9089, <=> phospholipids extracellular pool_C5H6O8PR3 ,-1000,1000,0,Exchange reactions,HMR_9089,R_HMR_9089, <=> m02740s[C_s] ,0,'<=>phospholipidsextracellularpool_C5H6O8PR3',-1000,1000,0,Exchange reactions,,59
+HMR_9090, <=> methylimidazoleacetic acid_C6H8N2O2 ,-1000,1000,0,Exchange reactions,HMR_9090,R_HMR_9090, <=> m02477s[C_s] ,0,'<=>methylimidazoleaceticacid_C6H8N2O2',-1000,1000,0,Exchange reactions,,60
+HMR_9092, <=> dopamine_C8H11NO2 ,-1000,1000,-1000,Exchange reactions,HMR_9092,R_HMR_9092, <=> m01736s[C_s] ,0,'<=>dopamine_C8H11NO2',-1000,1000,0,Exchange reactions,,61
+HMR_9093, <=> noradrenaline_C8H11NO3 ,-1000,1000,1000,Exchange reactions,HMR_9093,R_HMR_9093, <=> m02617s[C_s] ,0,'<=>noradrenaline_C8H11NO3',-1000,1000,0,Exchange reactions,,62
+HMR_9095, <=> adrenaline_C9H13NO3 ,-1000,1000,0,Exchange reactions,HMR_9095,R_HMR_9095, <=> m01290s[C_s] ,0,'<=>adrenaline_C9H13NO3',-1000,1000,0,Exchange reactions,,63
+HMR_9097, <=> D-aspartate_C4H7NO4 ,-1000,1000,0,Exchange reactions,HMR_9097,R_HMR_9097, <=> m01641s[C_s] ,0,'<=>D-aspartate_C4H7NO4',-1000,1000,0,Exchange reactions,,64
+HMR_9098, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9098,R_HMR_9098, <=> m01638s[C_s] ,0,'<=>D-alanine_C3H7NO2',-1000,1000,0,Exchange reactions,,65
+HMR_9099, <=> ethanol_C2H6O ,-1000,1000,0,Exchange reactions,HMR_9099,R_HMR_9099, <=> m01796s[C_s] ,0,'<=>ethanol_C2H6O',-1000,1000,0,Exchange reactions,,66
+HMR_9100, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9100,R_HMR_9100, <=> m01100s[C_s] ,0,'<=>5-formyl-THF_C20H23N7O7',-1000,1000,0,Exchange reactions,,67
+HMR_9101, <=> PNP_C6H5NO3 ,-1000,1000,1000,Exchange reactions,HMR_9101,R_HMR_9101, <=> m02754s[C_s] ,0,'<=>PNP_C6H5NO3',-1000,1000,0,Exchange reactions,,68
+HMR_9102, -> ,0,1000,0,Exchange reactions,HMR_9102,R_HMR_9102, -> m02332s[C_s] ,0,'->lactose_C12H22O11',0,1000,9.175355759,Exchange reactions,,69
+HMR_9103, <=> H2S_H2S ,-1000,1000,1000,Exchange reactions,HMR_9103,R_HMR_9103, <=> m02042s[C_s] ,0,'<=>H2S_H2S',-1000,1000,0,Exchange reactions,,70
+HMR_9104, <=> 1-methylnicotinamide_C7H9N2O ,-1000,1000,0,Exchange reactions,HMR_9104,R_HMR_9104, <=> m00536s[C_s] ,0,'<=>1-methylnicotinamide_C7H9N2O',-1000,1000,-116.3708133,Exchange reactions,,71
+HMR_9105, <=> thiamin-P_C12H18N4O4PS ,-1000,1000,0,Exchange reactions,HMR_9105,R_HMR_9105, <=> m02983s[C_s] ,0,'<=>thiamin-P_C12H18N4O4PS',-1000,1000,0,Exchange reactions,,72
+HMR_9106, <=> thiamin-PPP_C12H20N4O10P3S ,-1000,1000,0,Exchange reactions,HMR_9106,R_HMR_9106, <=> m02985s[C_s] ,0,'<=>thiamin-PPP_C12H20N4O10P3S',-1000,1000,0,Exchange reactions,,73
+HMR_9107, <=> heme_C34H32FeN4O4 ,-1000,1000,10.79731179,Exchange reactions,HMR_9107,R_HMR_9107, <=> m02049s[C_s] ,0,'<=>heme_C34H32FeN4O4',-1000,1000,893.7050088,Exchange reactions,,74
+HMR_9108, <=> dihydroneopterin_C9H13N5O4 ,-1000,1000,0,Exchange reactions,HMR_9108,R_HMR_9108, <=> m01704s[C_s] ,0,'<=>dihydroneopterin_C9H13N5O4',-1000,1000,0,Exchange reactions,,75
+HMR_9109, <=> biotin_C10H16N2O3S ,-1000,1000,10.79731179,Exchange reactions,HMR_9109,R_HMR_9109, <=> m01401s[C_s] ,0,'<=>biotin_C10H16N2O3S',-1000,1000,1.526681491,Exchange reactions,,76
+HMR_9110, <=> biocytin_C16H28N4O4S ,-1000,1000,0,Exchange reactions,HMR_9110,R_HMR_9110, <=> m01400s[C_s] ,0,'<=>biocytin_C16H28N4O4S',-1000,1000,0,Exchange reactions,,77
+HMR_9111, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9111,R_HMR_9111, <=> m02054s[C_s] ,0,'<=>heparansulfateproteoglycan_C79H113N5O101S12X',-1000,1000,0,Exchange reactions,,78
+HMR_9113, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9113,R_HMR_9113, <=> m02278s[C_s] ,0,'<=>keratansulfateI_C247H393N17O213S12X',-1000,1000,0,Exchange reactions,,79
+HMR_9114," <=> ""keratan sulfate I, degradation product 1_C241H383N17O209S12X"" ",-1000,1000,0,Exchange reactions,HMR_9114,R_HMR_9114, <=> m02237s[C_s] ,0,"'<=>keratansulfateI,degradationproduct1_C241H383N17O209S12X'",-1000,1000,0,Exchange reactions,,80
+HMR_9115, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9115,R_HMR_9115, <=> m02288s[C_s] ,0,'<=>keratansulfateII(core2-linked)_C81H129N6O67S3X',-1000,1000,0,Exchange reactions,,81
+HMR_9116, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9116,R_HMR_9116, <=> m02303s[C_s] ,0,'<=>keratansulfateII(core4-linked)_C89H142N7O72S3X',-1000,1000,0,Exchange reactions,,82
+HMR_9117, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9117,R_HMR_9117, <=> m01517s[C_s] ,0,'<=>chondroitinsulfateA(GalNAc4S-GlcA)proteoglycan_C45H66N2O45S3X',-1000,1000,0,Exchange reactions,,83
+HMR_9118, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9118,R_HMR_9118, <=> m01525s[C_s] ,0,'<=>chondroitinsulfateB-dermatansulfate(IdoA2S-GalNAc4S)proteoglycan_C45H65N2O48S4X',-1000,1000,0,Exchange reactions,,84
+HMR_9119, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9119,R_HMR_9119, <=> m01533s[C_s] ,0,'<=>chondroitinsulfateC(GalNAc6S-GlcA)proteoglycan_C45H66N2O45S3X',-1000,1000,0,Exchange reactions,,85
+HMR_9120, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9120,R_HMR_9120, <=> m01543s[C_s] ,0,'<=>chondroitinsulfateD(GlcNAc6S-GlcA2S)proteoglycan_C45H64N2O51S5X',-1000,1000,0,Exchange reactions,,86
+HMR_9121, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9121,R_HMR_9121, <=> m01554s[C_s] ,0,"'<=>chondroitinsulfateE(GalNAc4,6diS-GlcA)proteoglycan_C45H63N2O54S6X'",-1000,1000,0,Exchange reactions,,87
+HMR_9122, <=> hyaluronate_C28H40N2O22 ,-1000,1000,0,Exchange reactions,HMR_9122,R_HMR_9122, <=> m02141s[C_s] ,0,'<=>hyaluronate_C28H40N2O22',-1000,1000,0,Exchange reactions,,88
+HMR_9124, <=> de-Fuc form of PA6_C84H135N6O61X ,-1000,1000,0,Exchange reactions,HMR_9124,R_HMR_9124, <=> m01652s[C_s] ,0,'<=>de-FucformofPA6_C84H135N6O61X',-1000,1000,0,Exchange reactions,,89
+HMR_9125, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9125,R_HMR_9125, <=> m02672s[C_s] ,0,'<=>PA6_C90H145N6O65X',-1000,1000,0,Exchange reactions,,90
+HMR_9126, <=> n2m2nmasn_C58H96N5O40X ,-1000,1000,0,Exchange reactions,HMR_9126,R_HMR_9126, <=> m02510s[C_s] ,0,'<=>n2m2nmasn_C58H96N5O40X',-1000,1000,0,Exchange reactions,,91
+HMR_9127, <=> sialyl-Tn antigen_C19H30N2O13X ,-1000,1000,0,Exchange reactions,HMR_9127,R_HMR_9127, <=> m02907s[C_s] ,0,'<=>sialyl-Tnantigen_C19H30N2O13X',-1000,1000,0,Exchange reactions,,92
+HMR_9128, <=> disialyl-T antigen_C36H56N3O26X ,-1000,1000,0,Exchange reactions,HMR_9128,R_HMR_9128, <=> m01712s[C_s] ,0,'<=>disialyl-Tantigen_C36H56N3O26X',-1000,1000,0,Exchange reactions,,93
+HMR_9129, <=> estradiol-17beta 3-glucuronide_C24H32O8 ,-1000,1000,0,Exchange reactions,HMR_9129,R_HMR_9129, <=> m01786s[C_s] ,0,'<=>estradiol-17beta3-glucuronide_C24H32O8',-1000,1000,0,Exchange reactions,,94
+HMR_9131, <=> sarcosine_C3H7NO2 ,-1000,1000,1000,Exchange reactions,HMR_9131,R_HMR_9131, <=> m02880s[C_s] ,0,'<=>sarcosine_C3H7NO2',-1000,1000,0,Exchange reactions,,95
+HMR_9133, -> pyruvate_C3H4O3 ,0,1000,0,Exchange reactions,HMR_9133,R_HMR_9133, -> m02819s[C_s] ,0,'->pyruvate_C3H4O3',0,1000,0,Exchange reactions,,96
+HMR_9135, <=> L-lactate_C3H6O3 ,-1000,1000,-1000,Exchange reactions,HMR_9135,R_HMR_9135, <=> m02403s[C_s] ,0,'<=>L-lactate_C3H6O3',-1000,1000,-1000,Exchange reactions,,97
+HMR_9132,acetoacetate_C4H6O3  <=> ,-1000,1000,0,Exchange reactions,HMR_9132,R_HMR_9132,m01253s[C_s]  <=> ,0,'acetoacetate_C4H6O3<=>',-1000,1000,0,Exchange reactions,,98
+HMR_9134,(R)-3-hydroxybutanoate_C4H8O3  <=> ,-1000,1000,0,Exchange reactions,HMR_9134,R_HMR_9134,m00157s[C_s]  <=> ,0,'(R)-3-hydroxybutanoate_C4H8O3<=>',-1000,1000,0,Exchange reactions,,99
+HMR_9243,acetone_C3H6O  <=> ,-1000,1000,0,Exchange reactions,HMR_9243,R_HMR_9243,m01256s[C_s]  <=> ,0,'acetone_C3H6O<=>',-1000,1000,0,Exchange reactions,,100
+HMR_9136, <=> D-lactate_C3H6O3 ,-1000,1000,0,Exchange reactions,HMR_9136,R_HMR_9136, <=> m01716s[C_s] ,0,'<=>D-lactate_C3H6O3',-1000,1000,0,Exchange reactions,,101
+HMR_9137, <=> mannose_C6H12O6 ,-1000,1000,0,Exchange reactions,HMR_9137,R_HMR_9137, <=> m02453s[C_s] ,0,'<=>mannose_C6H12O6',-1000,1000,0,Exchange reactions,,102
+HMR_9138, <=> xylitol_C5H12O5 ,-1000,1000,1000,Exchange reactions,HMR_9138,R_HMR_9138, <=> m03155s[C_s] ,0,'<=>xylitol_C5H12O5',-1000,1000,1000,Exchange reactions,,103
+HMR_9139, -> fructose_C6H12O6 ,0,1000,0,Exchange reactions,HMR_9139,R_HMR_9139, -> m01840s[C_s] ,0,'->fructose_C6H12O6',0,1000,0,Exchange reactions,,104
+HMR_9141, -> ADP-ribose_C15H23N5O14P2 ,0,1000,0,Exchange reactions,HMR_9141,R_HMR_9141, -> m01288s[C_s] ,0,'->ADP-ribose_C15H23N5O14P2',0,1000,0,Exchange reactions,,105
+HMR_9142, <=> nicotinate_C6H5NO2 ,-1000,1000,-1000,Exchange reactions,HMR_9142,R_HMR_9142, <=> m02586s[C_s] ,0,'<=>nicotinate_C6H5NO2',-1000,1000,0,Exchange reactions,,106
+HMR_9143, <=> riboflavin_C17H20N4O6 ,-1000,1000,10.79731179,Exchange reactions,HMR_9143,R_HMR_9143, <=> m02842s[C_s] ,0,'<=>riboflavin_C17H20N4O6',-1000,1000,1.526681491,Exchange reactions,,107
+HMR_9144, <=> pyridoxine_C8H11NO3 ,-1000,1000,1000,Exchange reactions,HMR_9144,R_HMR_9144, <=> m02817s[C_s] ,0,'<=>pyridoxine_C8H11NO3',-1000,1000,-1000,Exchange reactions,,108
+HMR_9146, <=> folate_C19H19N7O6 ,-1000,1000,0,Exchange reactions,HMR_9146,R_HMR_9146, <=> m01830s[C_s] ,0,'<=>folate_C19H19N7O6',-1000,1000,275.9706394,Exchange reactions,,109
+HMR_9147, <=> retinol_C20H30O ,-1000,1000,0,Exchange reactions,HMR_9147,R_HMR_9147, <=> m02834s[C_s] ,0,'<=>retinol_C20H30O',-1000,1000,0,Exchange reactions,,110
+HMR_9148, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9148,R_HMR_9148, <=> m02174s[C_s] ,0,'<=>iodide_I',-1000,1000,0,Exchange reactions,,111
+HMR_9150, <=> chloride_ClH ,-1000,1000,0,Exchange reactions,HMR_9150,R_HMR_9150, <=> m01442s[C_s] ,0,'<=>chloride_ClH',-1000,1000,0,Exchange reactions,,112
+HMR_9151, <=> alpha-tocopherol_C29H50O2 ,-1000,1000,2.159462359,Exchange reactions,HMR_9151,R_HMR_9151, <=> m01327s[C_s] ,0,'<=>alpha-tocopherol_C29H50O2',-1000,1000,0.305336298,Exchange reactions,,113
+HMR_9153, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9153,R_HMR_9153, <=> m01935s[C_s] ,0,'<=>gamma-tocopherol_C28H48O2',-1000,1000,0.152668149,Exchange reactions,,114
+HMR_9154, <=> gamma-tocotrienol_C28H42O2 ,-1000,1000,0,Exchange reactions,HMR_9154,R_HMR_9154, <=> m01938s[C_s] ,0,'<=>gamma-tocotrienol_C28H42O2',-1000,1000,0.152668149,Exchange reactions,,115
+HMR_9155, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9155,R_HMR_9155, <=> m02193s[C_s] ,0,'<=>ITP_C10H15N4O14P3',-1000,1000,0,Exchange reactions,,116
+HMR_9156, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9156,R_HMR_9156, <=> m01714s[C_s] ,0,'<=>dITP_C10H15N4O13P3',-1000,1000,0,Exchange reactions,,117
+HMR_9158, <=> ascorbate_C6H8O6 ,-1000,1000,999.4601344,Exchange reactions,HMR_9158,R_HMR_9158, <=> m01368s[C_s] ,0,'<=>ascorbate_C6H8O6',-1000,1000,999.9236659,Exchange reactions,,118
+HMR_9159, <=> thiamin_C12H17N4OS ,-1000,1000,0,Exchange reactions,HMR_9159,R_HMR_9159, <=> m02982s[C_s] ,0,'<=>thiamin_C12H17N4OS',-1000,1000,0,Exchange reactions,,119
+HMR_9160, <=> hydrogen-cyanide_CHN ,-1000,1000,0,Exchange reactions,HMR_9160,R_HMR_9160, <=> m02145s[C_s] ,0,'<=>hydrogen-cyanide_CHN',-1000,1000,0,Exchange reactions,,120
+HMR_9161, <=> homoserine_C4H9NO3 ,-1000,1000,0,Exchange reactions,HMR_9161,R_HMR_9161, <=> m02136s[C_s] ,0,'<=>homoserine_C4H9NO3',-1000,1000,0,Exchange reactions,,121
+HMR_9163, <=> leukotriene F4_C28H44N2O8S ,-1000,1000,-1000,Exchange reactions,HMR_9163,R_HMR_9163, <=> m02370s[C_s] ,0,'<=>leukotrieneF4_C28H44N2O8S',-1000,1000,589.2887456,Exchange reactions,,122
+HMR_9165, <=> oxalate_C2H2O4 ,-1000,1000,0,Exchange reactions,HMR_9165,R_HMR_9165, <=> m02661s[C_s] ,0,'<=>oxalate_C2H2O4',-1000,1000,0,Exchange reactions,,123
+HMR_9166, <=> chitin-component_C8H13NO5 ,-1000,1000,1000,Exchange reactions,HMR_9166,R_HMR_9166, <=> m01438s[C_s] ,0,'<=>chitin-component_C8H13NO5',-1000,1000,0,Exchange reactions,,124
+HMR_9167, <=> lipoic acid_C8H14O2S2 ,-1000,1000,10.79731179,Exchange reactions,HMR_9167,R_HMR_9167, <=> m02394s[C_s] ,0,'<=>lipoicacid_C8H14O2S2',-1000,1000,1.526681491,Exchange reactions,,125
+HMR_9168, <=> glucosamine_C6H13NO5 ,-1000,1000,0,Exchange reactions,HMR_9168,R_HMR_9168, <=> m01962s[C_s] ,0,'<=>glucosamine_C6H13NO5',-1000,1000,0,Exchange reactions,,126
+HMR_9171, <=> 2-acetyl-1-alkyl-sn-glycero-3-phosphocholine_C10H22NO7PR ,-1000,1000,-1000,Exchange reactions,HMR_9171,R_HMR_9171, <=> m00626s[C_s] ,0,'<=>2-acetyl-1-alkyl-sn-glycero-3-phosphocholine_C10H22NO7PR',-1000,1000,0,Exchange reactions,,127
+HMR_9172, <=> 1-organyl-2-lyso-sn-glycero-3-phosphocholine_C8H20NO6PR ,-1000,1000,1000,Exchange reactions,HMR_9172,R_HMR_9172, <=> m00549s[C_s] ,0,'<=>1-organyl-2-lyso-sn-glycero-3-phosphocholine_C8H20NO6PR',-1000,1000,0.00361253,Exchange reactions,,128
+HMR_9201, <=> citrulline_C6H13N3O3 ,-1000,1000,0,Exchange reactions,HMR_9201,R_HMR_9201, <=> m01588s[C_s] ,0,'<=>citrulline_C6H13N3O3',-1000,1000,0,Exchange reactions,,129
+HMR_9203, <=> D-xylose_C5H10O5 ,-1000,1000,-1000,Exchange reactions,HMR_9203,R_HMR_9203, <=> m01758s[C_s] ,0,'<=>D-xylose_C5H10O5',-1000,1000,-1000,Exchange reactions,,130
+HMR_9204, <=> glycophosphatidylinositol-(GPI)-anchored-protein-precursor_XY ,-1000,1000,0,Exchange reactions,HMR_9204,R_HMR_9204, <=> m02001s[C_s] ,0,'<=>glycophosphatidylinositol-(GPI)-anchored-protein-precursor_XY',-1000,1000,0,Exchange reactions,,131
+HMR_9205, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9205,R_HMR_9205, <=> m00266s[C_s] ,0,'<=>10-formyl-THF_C20H23N7O7',-1000,1000,0,Exchange reactions,,132
+HMR_9206, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9206,R_HMR_9206, <=> m00267s[C_s] ,0,'<=>10-formyl-THF-glu(5)_C40H51N11O19',-1000,1000,0,Exchange reactions,,133
+HMR_9207, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9207,R_HMR_9207, <=> m00268s[C_s] ,0,'<=>10-formyl-THF-glu(6)_C45H58N12O22',-1000,1000,0,Exchange reactions,,134
+HMR_9208, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9208,R_HMR_9208, <=> m00269s[C_s] ,0,'<=>10-formyl-THF-glu(7)_C50H65N13O25',-1000,1000,0,Exchange reactions,,135
+HMR_9210, <=> 13-cis-retinoyl-glucuronide_C26H36O8 ,-1000,1000,0,Exchange reactions,HMR_9210,R_HMR_9210, <=> m00353s[C_s] ,0,'<=>13-cis-retinoyl-glucuronide_C26H36O8',-1000,1000,0,Exchange reactions,,136
+HMR_9212," <=> ""(24R)-24,25-dihydroxycalciol_C27H44O3"" ",-1000,1000,0,Exchange reactions,HMR_9212,R_HMR_9212, <=> m00035s[C_s] ,0,"'<=>(24R)-24,25-dihydroxycalciol_C27H44O3'",-1000,1000,0,Exchange reactions,,137
+HMR_9213, <=> 4-nitrocatechol_C6H5NO4 ,-1000,1000,0,Exchange reactions,HMR_9213,R_HMR_9213, <=> m01019s[C_s] ,0,'<=>4-nitrocatechol_C6H5NO4',-1000,1000,0,Exchange reactions,,138
+HMR_9214, <=> 25-hydroxyvitamin D2_C28H44O2 ,-1000,1000,0,Exchange reactions,HMR_9214,R_HMR_9214, <=> m00620s[C_s] ,0,'<=>25-hydroxyvitaminD2_C28H44O2',-1000,1000,0,Exchange reactions,,139
+HMR_9215, <=> calcidiol_C27H44O2 ,-1000,1000,4.318924718,Exchange reactions,HMR_9215,R_HMR_9215, <=> m01415s[C_s] ,0,'<=>calcidiol_C27H44O2',-1000,1000,0.610672596,Exchange reactions,,140
+HMR_9216, <=> 2-hydroxybutyrate_C4H8O3 ,-1000,1000,0,Exchange reactions,HMR_9216,R_HMR_9216, <=> m00648s[C_s] ,0,'<=>2-hydroxybutyrate_C4H8O3',-1000,1000,-930.4846944,Exchange reactions,,141
+HMR_9217, <=> 2-methylcitrate_C7H10O7 ,-1000,1000,0,Exchange reactions,HMR_9217,R_HMR_9217, <=> m00665s[C_s] ,0,'<=>2-methylcitrate_C7H10O7',-1000,1000,0,Exchange reactions,,142
+HMR_9218," <=> ""3,4-dihydroxyphenylethyleneglycol_C8H10O4"" ",-1000,1000,0,Exchange reactions,HMR_9218,R_HMR_9218, <=> m00730s[C_s] ,0,"'<=>3,4-dihydroxyphenylethyleneglycol_C8H10O4'",-1000,1000,0,Exchange reactions,,143
+HMR_9219, -> L-dopa_C9H11NO4 ,0,1000,1000,Exchange reactions,HMR_9219,R_HMR_9219, -> m02354s[C_s] ,0,'->L-dopa_C9H11NO4',0,1000,0,Exchange reactions,,144
+HMR_9220, <=> cGMP_C10H12N5O7P ,-1000,1000,0,Exchange reactions,HMR_9220,R_HMR_9220, <=> m01433s[C_s] ,0,'<=>cGMP_C10H12N5O7P',-1000,1000,0,Exchange reactions,,145
+HMR_9221, <=> L-3-amino-isobutanoate_C4H9NO2 ,-1000,1000,0,Exchange reactions,HMR_9221,R_HMR_9221, <=> m02325s[C_s] ,0,'<=>L-3-amino-isobutanoate_C4H9NO2',-1000,1000,0,Exchange reactions,,146
+HMR_9222, <=> D-3-amino-isobutanoate_C4H9NO2 ,-1000,1000,0,Exchange reactions,HMR_9222,R_HMR_9222, <=> m01633s[C_s] ,0,'<=>D-3-amino-isobutanoate_C4H9NO2',-1000,1000,0,Exchange reactions,,147
+HMR_9224, <=> 4-hydroxyphenylacetate_C8H8O3 ,-1000,1000,0,Exchange reactions,HMR_9224,R_HMR_9224, <=> m01003s[C_s] ,0,'<=>4-hydroxyphenylacetate_C8H8O3',-1000,1000,0,Exchange reactions,,148
+HMR_9226, <=> 4-hydroxy-tolbutamide_C12H18N2O4S ,-1000,1000,0,Exchange reactions,HMR_9226,R_HMR_9226, <=> m01007s[C_s] ,0,'<=>4-hydroxy-tolbutamide_C12H18N2O4S',-1000,1000,0,Exchange reactions,,149
+HMR_9227, <=> 4-nitrophenyl-sulfate_C6H5NO6S ,-1000,1000,-1000,Exchange reactions,HMR_9227,R_HMR_9227, <=> m01021s[C_s] ,0,'<=>4-nitrophenyl-sulfate_C6H5NO6S',-1000,1000,0,Exchange reactions,,150
+HMR_9228, <=> 4-pyridoxate_C8H9NO4 ,-1000,1000,0,Exchange reactions,HMR_9228,R_HMR_9228, <=> m01033s[C_s] ,0,'<=>4-pyridoxate_C8H9NO4',-1000,1000,0,Exchange reactions,,151
+HMR_9229, <=> 5-alpha-dihydrotestosterone_C19H30O2 ,-1000,1000,-992.4418817,Exchange reactions,HMR_9229,R_HMR_9229, <=> m01069s[C_s] ,0,'<=>5-alpha-dihydrotestosterone_C19H30O2',-1000,1000,1000,Exchange reactions,,152
+HMR_9230, <=> 5alpha-dihydrotestosterone-glucuronide_C25H38O8 ,-1000,1000,0,Exchange reactions,HMR_9230,R_HMR_9230, <=> m01070s[C_s] ,0,'<=>5alpha-dihydrotestosterone-glucuronide_C25H38O8',-1000,1000,0,Exchange reactions,,153
+HMR_9231, <=> 5alpha-dihydrotestosterone-sulfate_C19H30O5S ,-1000,1000,992.4418817,Exchange reactions,HMR_9231,R_HMR_9231, <=> m01071s[C_s] ,0,'<=>5alpha-dihydrotestosterone-sulfate_C19H30O5S',-1000,1000,-1000,Exchange reactions,,154
+HMR_9232, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9232,R_HMR_9232, <=> m02691s[C_s] ,0,'<=>pentaglutamyl-folate(DHF)_C39H47N11O18',-1000,1000,0,Exchange reactions,,155
+HMR_9234, <=> 5-methyl-THF_C20H25N7O6 ,-1000,1000,0,Exchange reactions,HMR_9234,R_HMR_9234, <=> m01115s[C_s] ,0,'<=>5-methyl-THF_C20H25N7O6',-1000,1000,0,Exchange reactions,,156
+HMR_9235, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9235,R_HMR_9235, <=> m02692s[C_s] ,0,'<=>pentaglutamyl-folate(THF)_C39H51N11O18',-1000,1000,0,Exchange reactions,,157
+HMR_9236, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9236,R_HMR_9236, <=> m02118s[C_s] ,0,'<=>hexaglutamyl-folate(DHF)_C44H54N12O21',-1000,1000,0,Exchange reactions,,158
+HMR_9237, <=> 6beta-hydroxytestosterone_C19H28O3 ,-1000,1000,0,Exchange reactions,HMR_9237,R_HMR_9237, <=> m01158s[C_s] ,0,'<=>6beta-hydroxytestosterone_C19H28O3',-1000,1000,0,Exchange reactions,,159
+HMR_9238, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9238,R_HMR_9238, <=> m02119s[C_s] ,0,'<=>hexaglutamyl-folate(THF)_C44H54N12O21',-1000,1000,0,Exchange reactions,,160
+HMR_9239, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9239,R_HMR_9239, <=> m02104s[C_s] ,0,'<=>heptaglutamyl-folate(DHF)_C49H68N13O24',-1000,1000,0,Exchange reactions,,161
+HMR_9240, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9240,R_HMR_9240, <=> m02105s[C_s] ,0,'<=>heptaglutamyl-folate(THF)_C49H65N13O24',-1000,1000,0,Exchange reactions,,162
+HMR_9241, <=> L-arabitol_C5H12O5 ,-1000,1000,0,Exchange reactions,HMR_9241,R_HMR_9241, <=> m02338s[C_s] ,0,'<=>L-arabitol_C5H12O5',-1000,1000,-880.6310533,Exchange reactions,,163
+HMR_9242, -> acetaldehyde_C2H4O ,0,1000,0,Exchange reactions,HMR_9242,R_HMR_9242, -> m01249s[C_s] ,0,'->acetaldehyde_C2H4O',0,1000,0,Exchange reactions,,164
+HMR_9246, <=> N-acetylglucosamine_C8H15NO6 ,-1000,1000,0,Exchange reactions,HMR_9246,R_HMR_9246, <=> m02527s[C_s] ,0,'<=>N-acetylglucosamine_C8H15NO6',-1000,1000,0,Exchange reactions,,165
+HMR_9247, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9247,R_HMR_9247, <=> m01260s[C_s] ,0,'<=>acetylcholine_C7H16NO2',-1000,1000,-2.65814472,Exchange reactions,,166
+HMR_9253, <=> adenine_C5H5N5 ,-1000,1000,-1000,Exchange reactions,HMR_9253,R_HMR_9253, <=> m01279s[C_s] ,0,'<=>adenine_C5H5N5',-1000,1000,1000,Exchange reactions,,167
+HMR_9254, <=> adenosine_C10H13N5O4 ,-1000,1000,0,Exchange reactions,HMR_9254,R_HMR_9254, <=> m01280s[C_s] ,0,'<=>adenosine_C10H13N5O4',-1000,1000,-1000,Exchange reactions,,168
+HMR_9255, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9255,R_HMR_9255, <=> m01285s[C_s] ,0,'<=>ADP_C10H15N5O10P2',-1000,1000,0,Exchange reactions,,169
+HMR_9256, <=> ADP-ribose-2-phosphate_C15H24N5O17P3 ,-1000,1000,0,Exchange reactions,HMR_9256,R_HMR_9256, <=> m01289s[C_s] ,0,'<=>ADP-ribose-2-phosphate_C15H24N5O17P3',-1000,1000,0,Exchange reactions,,170
+HMR_9257, <=> etiocholan-3alpha-ol-17-one 3-glucuronide_C25H38O8 ,-1000,1000,0,Exchange reactions,HMR_9257,R_HMR_9257, <=> m01799s[C_s] ,0,'<=>etiocholan-3alpha-ol-17-one3-glucuronide_C25H38O8',-1000,1000,0,Exchange reactions,,171
+HMR_9258, <=> 1-alkyl-2-lysoglycerol-3-phosphocholine_C8H20NO6PR ,-1000,1000,0.025913548,Exchange reactions,HMR_9258,R_HMR_9258, <=> m00516s[C_s] ,0,'<=>1-alkyl-2-lysoglycerol-3-phosphocholine_C8H20NO6PR',-1000,1000,0,Exchange reactions,,172
+HMR_9259, -> AKG_C5H6O5 ,0,1000,0,Exchange reactions,HMR_9259,R_HMR_9259, -> m01306s[C_s] ,0,'->AKG_C5H6O5',0,1000,1000,Exchange reactions,,173
+HMR_9260, <=> beta-alanine_C3H7NO2 ,-1000,1000,0,Exchange reactions,HMR_9260,R_HMR_9260, <=> m01383s[C_s] ,0,'<=>beta-alanine_C3H7NO2',-1000,1000,0,Exchange reactions,,174
+HMR_9262, <=> AMP_C10H14N5O7P ,-1000,1000,0,Exchange reactions,HMR_9262,R_HMR_9262, <=> m01334s[C_s] ,0,'<=>AMP_C10H14N5O7P',-1000,1000,0,Exchange reactions,,175
+HMR_9263, <=> androsterone_C19H30O2 ,-1000,1000,-1000,Exchange reactions,HMR_9263,R_HMR_9263, <=> m01338s[C_s] ,0,'<=>androsterone_C19H30O2',-1000,1000,0,Exchange reactions,,176
+HMR_9264, <=> androsterone-glucuronide_C25H38O8 ,-1000,1000,0,Exchange reactions,HMR_9264,R_HMR_9264, <=> m01339s[C_s] ,0,'<=>androsterone-glucuronide_C25H38O8',-1000,1000,0,Exchange reactions,,177
+HMR_9266, <=> alpha-pinene-oxide_C10H16O ,-1000,1000,0,Exchange reactions,HMR_9266,R_HMR_9266, <=> m01326s[C_s] ,0,'<=>alpha-pinene-oxide_C10H16O',-1000,1000,0,Exchange reactions,,178
+HMR_9267, <=> (+)-alpha-pinene_C10H16 ,-1000,1000,0,Exchange reactions,HMR_9267,R_HMR_9267, <=> m00002s[C_s] ,0,'<=>(+)-alpha-pinene_C10H16',-1000,1000,0,Exchange reactions,,179
+HMR_9268, <=> 20alpha-hydroxy-4-pregnen-3-one_C21H32O2 ,-1000,1000,0,Exchange reactions,HMR_9268,R_HMR_9268, <=> m00580s[C_s] ,0,'<=>20alpha-hydroxy-4-pregnen-3-one_C21H32O2',-1000,1000,-1000,Exchange reactions,,180
+HMR_9269, <=> aquacob(III)alamin_C62H93CoN13O15P ,-1000,1000,10.79731179,Exchange reactions,HMR_9269,R_HMR_9269, <=> m01361s[C_s] ,0,'<=>aquacob(III)alamin_C62H93CoN13O15P',-1000,1000,1.526681491,Exchange reactions,,181
+HMR_9270, <=> L-arabinose_C5H10O5 ,-1000,1000,0,Exchange reactions,HMR_9270,R_HMR_9270, <=> m02337s[C_s] ,0,'<=>L-arabinose_C5H10O5',-1000,1000,880.6310533,Exchange reactions,,182
+HMR_9271, <=> bilirubin-bisglucuronoside_C45H52N4O18 ,-1000,1000,0,Exchange reactions,HMR_9271,R_HMR_9271, <=> m01397s[C_s] ,0,'<=>bilirubin-bisglucuronoside_C45H52N4O18',-1000,1000,0,Exchange reactions,,183
+HMR_9272, <=> bilirubin-monoglucuronoside_C39H44N4O12 ,-1000,1000,0,Exchange reactions,HMR_9272,R_HMR_9272, <=> m01398s[C_s] ,0,'<=>bilirubin-monoglucuronoside_C39H44N4O12',-1000,1000,0,Exchange reactions,,184
+HMR_9273, <=> bilirubin_C33H36N4O6 ,-1000,1000,0,Exchange reactions,HMR_9273,R_HMR_9273, <=> m01396s[C_s] ,0,'<=>bilirubin_C33H36N4O6',-1000,1000,-892.1783274,Exchange reactions,,185
+HMR_9275, <=> cAMP_C10H12N5O6P ,-1000,1000,0,Exchange reactions,HMR_9275,R_HMR_9275, <=> m01419s[C_s] ,0,'<=>cAMP_C10H12N5O6P',-1000,1000,0,Exchange reactions,,186
+HMR_9276, <=> beta-carotene_C40H56 ,-1000,1000,11.33717738,Exchange reactions,HMR_9276,R_HMR_9276, <=> m01385s[C_s] ,0,'<=>beta-carotene_C40H56',-1000,1000,0,Exchange reactions,,187
+HMR_9277, <=> (-)-trans-carveol_C10H16O ,-1000,1000,0,Exchange reactions,HMR_9277,R_HMR_9277, <=> m00001s[C_s] ,0,'<=>(-)-trans-carveol_C10H16O',-1000,1000,0,Exchange reactions,,188
+HMR_9279, -> cys-gly_C5H10N2O3S ,0,1000,0,Exchange reactions,HMR_9279,R_HMR_9279, -> m01626s[C_s] ,0,'->cys-gly_C5H10N2O3S',0,1000,0,Exchange reactions,,189
+HMR_9280, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9280,R_HMR_9280, <=> m01445s[C_s] ,0,'<=>cholate_C24H40O5',-1000,1000,1000,Exchange reactions,,190
+HMR_9281, <=> glycocholate_C26H43NO6 ,-1000,1000,0,Exchange reactions,HMR_9281,R_HMR_9281, <=> m01988s[C_s] ,0,'<=>glycocholate_C26H43NO6',-1000,1000,0,Exchange reactions,,191
+HMR_9282, <=> taurocholate_C26H45NO7S ,-1000,1000,-1000,Exchange reactions,HMR_9282,R_HMR_9282, <=> m02963s[C_s] ,0,'<=>taurocholate_C26H45NO7S',-1000,1000,0,Exchange reactions,,192
+HMR_9283, <=> glycochenodeoxycholate_C26H43NO5 ,-1000,1000,0,Exchange reactions,HMR_9283,R_HMR_9283, <=> m01987s[C_s] ,0,'<=>glycochenodeoxycholate_C26H43NO5',-1000,1000,0,Exchange reactions,,193
+HMR_9284, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9284,R_HMR_9284, <=> m02962s[C_s] ,0,'<=>taurochenodeoxycholate_C26H45NO6S',-1000,1000,0,Exchange reactions,,194
+HMR_9285, <=> cholesterol_C27H46O ,-1000,1000,0,Exchange reactions,HMR_9285,R_HMR_9285, <=> m01450s[C_s] ,0,'<=>cholesterol_C27H46O',-1000,1000,0,Exchange reactions,,195
+HMR_9286, <=> citrate_C6H8O7 ,-1000,1000,1000,Exchange reactions,HMR_9286,R_HMR_9286, <=> m01587s[C_s] ,0,'<=>citrate_C6H8O7',-1000,1000,0,Exchange reactions,,196
+HMR_9287, <=> CMP_C9H14N3O8P ,-1000,1000,0,Exchange reactions,HMR_9287,R_HMR_9287, <=> m01590s[C_s] ,0,'<=>CMP_C9H14N3O8P',-1000,1000,0,Exchange reactions,,197
+HMR_9288, <=> CO_CO ,-1000,1000,0,Exchange reactions,HMR_9288,R_HMR_9288, <=> m01595s[C_s] ,0,'<=>CO_CO',-1000,1000,-892.1783274,Exchange reactions,,198
+HMR_9290, <=> creatine_C4H9N3O2 ,-1000,1000,1000,Exchange reactions,HMR_9290,R_HMR_9290, <=> m01619s[C_s] ,0,'<=>creatine_C4H9N3O2',-1000,1000,125.1881876,Exchange reactions,,199
+HMR_9291, <=> cytosine_C4H5N3O ,-1000,1000,0,Exchange reactions,HMR_9291,R_HMR_9291, <=> m01632s[C_s] ,0,'<=>cytosine_C4H5N3O',-1000,1000,0,Exchange reactions,,200
+HMR_9292, <=> L-carnitine_C7H15NO3 ,-1000,1000,1000,Exchange reactions,HMR_9292,R_HMR_9292, <=> m02348s[C_s] ,0,'<=>L-carnitine_C7H15NO3',-1000,1000,-303.6160674,Exchange reactions,,201
+HMR_9295, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9295,R_HMR_9295, <=> m01630s[C_s] ,0,'<=>cytidine_C9H13N3O5',-1000,1000,1.374013342,Exchange reactions,,202
+HMR_9296, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9296,R_HMR_9296, <=> m01668s[C_s] ,0,'<=>deoxycytidine_C9H13N3O4',-1000,1000,0,Exchange reactions,,203
+HMR_9297, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9297,R_HMR_9297, <=> m01666s[C_s] ,0,'<=>deoxyadenosine_C10H13N5O3',-1000,1000,1.633549195,Exchange reactions,,204
+HMR_9298, <=> 5-deoxyadenosine_C10H13N5O3 ,-1000,1000,0,Exchange reactions,HMR_9298,R_HMR_9298, <=> m01098s[C_s] ,0,'<=>5-deoxyadenosine_C10H13N5O3',-1000,1000,0,Exchange reactions,,205
+HMR_9300, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9300,R_HMR_9300, <=> m01669s[C_s] ,0,'<=>deoxyguanosine_C10H13N5O4',-1000,1000,-1000,Exchange reactions,,206
+HMR_9301, <=> dehydroascorbic acid_C6H6O6 ,-1000,1000,-999.4601344,Exchange reactions,HMR_9301,R_HMR_9301, <=> m01655s[C_s] ,0,'<=>dehydroascorbicacid_C6H6O6',-1000,1000,-999.9236659,Exchange reactions,,207
+HMR_9302, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9302,R_HMR_9302, <=> m01659s[C_s] ,0,'<=>dehydroepiandrosteronesulfate_C19H28O5S',-1000,1000,0,Exchange reactions,,208
+HMR_9303, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9303,R_HMR_9303, <=> m01700s[C_s] ,0,'<=>dihydrofolate_C19H21N7O6',-1000,1000,0,Exchange reactions,,209
+HMR_9305, <=> deoxyinosine_C10H12N4O4 ,-1000,1000,-1000,Exchange reactions,HMR_9305,R_HMR_9305, <=> m01671s[C_s] ,0,'<=>deoxyinosine_C10H12N4O4',-1000,1000,-4.747979436,Exchange reactions,,210
+HMR_9307," <=> ""2,6-dimethylheptanoyl-carnitine_C16H31NO4"" ",-1000,1000,-1000,Exchange reactions,HMR_9307,R_HMR_9307, <=> m00577s[C_s] ,0,"'<=>2,6-dimethylheptanoyl-carnitine_C16H31NO4'",-1000,1000,305.1427489,Exchange reactions,,211
+HMR_9308, <=> dopamine-3-O-sulfate_C8H11NO5S ,-1000,1000,0,Exchange reactions,HMR_9308,R_HMR_9308, <=> m01737s[C_s] ,0,'<=>dopamine-3-O-sulfate_C8H11NO5S',-1000,1000,0,Exchange reactions,,212
+HMR_9309, -> deoxyribose_C5H10O4 ,0,1000,0,Exchange reactions,HMR_9309,R_HMR_9309, -> m01672s[C_s] ,0,'->deoxyribose_C5H10O4',0,1000,0,Exchange reactions,,213
+HMR_9310, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9310,R_HMR_9310, <=> m01673s[C_s] ,0,'<=>deoxyuridine_C9H12N2O5',-1000,1000,2.68452409,Exchange reactions,,214
+HMR_9311," <=> ""aflatoxin B1-exo-8,9-epoxide_C17H12O7"" ",-1000,1000,0,Exchange reactions,HMR_9311,R_HMR_9311, <=> m01298s[C_s] ,0,"'<=>aflatoxinB1-exo-8,9-epoxide_C17H12O7'",-1000,1000,0,Exchange reactions,,215
+HMR_9312, <=> ebastine_C32H39NO2 ,-1000,1000,0,Exchange reactions,HMR_9312,R_HMR_9312, <=> m01765s[C_s] ,0,'<=>ebastine_C32H39NO2',-1000,1000,0,Exchange reactions,,216
+HMR_9313, <=> hydroxylated-ebastine_C32H39NO3 ,-1000,1000,0,Exchange reactions,HMR_9313,R_HMR_9313, <=> m02150s[C_s] ,0,'<=>hydroxylated-ebastine_C32H39NO3',-1000,1000,0,Exchange reactions,,217
+HMR_9314, <=> estradiol-17beta_C18H24O2 ,-1000,1000,131.6130608,Exchange reactions,HMR_9314,R_HMR_9314, <=> m01787s[C_s] ,0,'<=>estradiol-17beta_C18H24O2',-1000,1000,-711.8436335,Exchange reactions,,218
+HMR_9315, <=> 16-glucuronide-estriol_C24H32O9 ,-1000,1000,0,Exchange reactions,HMR_9315,R_HMR_9315, <=> m00402s[C_s] ,0,'<=>16-glucuronide-estriol_C24H32O9',-1000,1000,0,Exchange reactions,,219
+HMR_9316, <=> estrone-glucuronide_C24H30O8 ,-1000,1000,0,Exchange reactions,HMR_9316,R_HMR_9316, <=> m01795s[C_s] ,0,'<=>estrone-glucuronide_C24H30O8',-1000,1000,0,Exchange reactions,,220
+HMR_9317, <=> estrone 3-sulfate_C18H22O5S ,-1000,1000,7.558118256,Exchange reactions,HMR_9317,R_HMR_9317, <=> m01789s[C_s] ,0,'<=>estrone3-sulfate_C18H22O5S',-1000,1000,711.8436335,Exchange reactions,,221
+HMR_9318, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9318,R_HMR_9318, <=> m01833s[C_s] ,0,'<=>formate_CH2O2',-1000,1000,-1.832017789,Exchange reactions,,222
+HMR_9330, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9330,R_HMR_9330, <=> m01159s[C_s] ,0,'<=>6-deoxy-L-galactose_C6H12O5',-1000,1000,0,Exchange reactions,,223
+HMR_9336, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9336,R_HMR_9336, <=> m01959s[C_s] ,0,'<=>globoside_C45H79N2O23R',-1000,1000,0,Exchange reactions,,224
+HMR_9337, <=> GD1beta_C67H113N4O39R ,-1000,1000,0,Exchange reactions,HMR_9337,R_HMR_9337, <=> m01944s[C_s] ,0,'<=>GD1beta_C67H113N4O39R',-1000,1000,0,Exchange reactions,,225
+HMR_9338, <=> (5-L-glutamyl)-L-amino acid_C8H14N2O5 ,-1000,1000,0,Exchange reactions,HMR_9338,R_HMR_9338, <=> m00097s[C_s] ,0,'<=>(5-L-glutamyl)-L-aminoacid_C8H14N2O5',-1000,1000,-589.2887456,Exchange reactions,,226
+HMR_9340, <=> GDP_C10H15N5O11P2 ,-1000,1000,0,Exchange reactions,HMR_9340,R_HMR_9340, <=> m01948s[C_s] ,0,'<=>GDP_C10H15N5O11P2',-1000,1000,0,Exchange reactions,,227
+HMR_9341, <=> betaine_C5H11NO2 ,-1000,1000,0,Exchange reactions,HMR_9341,R_HMR_9341, <=> m01393s[C_s] ,0,'<=>betaine_C5H11NO2',-1000,1000,0,Exchange reactions,,228
+HMR_9342, <=> glycerate_C3H6O4 ,-1000,1000,0,Exchange reactions,HMR_9342,R_HMR_9342, <=> m01982s[C_s] ,0,'<=>glycerate_C3H6O4',-1000,1000,-1000,Exchange reactions,,229
+HMR_9343, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9343,R_HMR_9343, <=> m02016s[C_s] ,0,'<=>GMP_C10H14N5O8P',-1000,1000,0,Exchange reactions,,230
+HMR_9346, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9346,R_HMR_9346, <=> m02023s[C_s] ,0,'<=>GQ1b_C89H147N6O55R',-1000,1000,0,Exchange reactions,,231
+HMR_9347, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9347,R_HMR_9347, <=> m02024s[C_s] ,0,'<=>GQ1balpha_C89H143N6O55R',-1000,1000,0,Exchange reactions,,232
+HMR_9348, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9348,R_HMR_9348, <=> m02038s[C_s] ,0,'<=>guanosine_C10H13N5O5',-1000,1000,2.961762092,Exchange reactions,,233
+HMR_9350, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9350,R_HMR_9350, <=> m02027s[C_s] ,0,'<=>GSSG_C20H32N6O12S2',-1000,1000,0,Exchange reactions,,234
+HMR_9351, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9351,R_HMR_9351, <=> m02026s[C_s] ,0,'<=>GSH_C10H17N3O6S',-1000,1000,1000,Exchange reactions,,235
+HMR_9352, <=> GTP_C10H16N5O14P3 ,-1000,1000,0,Exchange reactions,HMR_9352,R_HMR_9352, <=> m02034s[C_s] ,0,'<=>GTP_C10H16N5O14P3',-1000,1000,0,Exchange reactions,,236
+HMR_9353, <=> guanine_C5H5N5O ,-1000,1000,0,Exchange reactions,HMR_9353,R_HMR_9353, <=> m02037s[C_s] ,0,'<=>guanine_C5H5N5O',-1000,1000,1000,Exchange reactions,,237
+HMR_9354, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9354,R_HMR_9354, <=> m02041s[C_s] ,0,'<=>H2O2_H2O2',-1000,1000,1000,Exchange reactions,,238
+HMR_9355, <=> 4-hydroxy-17beta-estradiol_C18H24O3 ,-1000,1000,-639.6569775,Exchange reactions,HMR_9355,R_HMR_9355, <=> m00986s[C_s] ,0,'<=>4-hydroxy-17beta-estradiol_C18H24O3',-1000,1000,0,Exchange reactions,,239
+HMR_9357, <=> 6-hydroxypaclitaxel_C47H51NO15 ,-1000,1000,0,Exchange reactions,HMR_9357,R_HMR_9357, <=> m01163s[C_s] ,0,'<=>6-hydroxypaclitaxel_C47H51NO15',-1000,1000,0,Exchange reactions,,240
+HMR_9358, <=> hypoxanthine_C5H4N4O ,-1000,1000,1000,Exchange reactions,HMR_9358,R_HMR_9358, <=> m02159s[C_s] ,0,'<=>hypoxanthine_C5H4N4O',-1000,1000,-995.2520206,Exchange reactions,,241
+HMR_9359, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9359,R_HMR_9359, <=> m02161s[C_s] ,0,'<=>IDP_C10H14N4O11P2',-1000,1000,0,Exchange reactions,,242
+HMR_9360, <=> IMP_C10H13N4O8P ,-1000,1000,0,Exchange reactions,HMR_9360,R_HMR_9360, <=> m02167s[C_s] ,0,'<=>IMP_C10H13N4O8P',-1000,1000,0,Exchange reactions,,243
+HMR_9362, <=> inosine_C10H12N4O5 ,-1000,1000,0,Exchange reactions,HMR_9362,R_HMR_9362, <=> m02170s[C_s] ,0,'<=>inosine_C10H12N4O5',-1000,1000,1000,Exchange reactions,,244
+HMR_9363, <=> cystine_C6H12N2O4S2 ,-1000,1000,0,Exchange reactions,HMR_9363,R_HMR_9363, <=> m01629s[C_s] ,0,'<=>cystine_C6H12N2O4S2',-1000,1000,773.0435781,Exchange reactions,,245
+HMR_9364, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9364,R_HMR_9364, <=> m02362s[C_s] ,0,'<=>leukotrieneA4_C20H30O3',-1000,1000,410.7112544,Exchange reactions,,246
+HMR_9365, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9365,R_HMR_9365, <=> m02364s[C_s] ,0,'<=>leukotrieneB4_C20H32O4',-1000,1000,0,Exchange reactions,,247
+HMR_9366, <=> leukotriene C4_C30H47N3O9S ,-1000,1000,-1000,Exchange reactions,HMR_9366,R_HMR_9366, <=> m02366s[C_s] ,0,'<=>leukotrieneC4_C30H47N3O9S',-1000,1000,-1000,Exchange reactions,,248
+HMR_9367, <=> LTD4_C25H40N2O6S ,-1000,1000,-1000,Exchange reactions,HMR_9367,R_HMR_9367, <=> m02418s[C_s] ,0,'<=>LTD4_C25H40N2O6S',-1000,1000,-1000,Exchange reactions,,249
+HMR_9368, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9368,R_HMR_9368, <=> m02369s[C_s] ,0,'<=>leukotrieneE4_C23H37NO5S',-1000,1000,1000,Exchange reactions,,250
+HMR_9369, <=> limonene_C10H16 ,-1000,1000,0,Exchange reactions,HMR_9369,R_HMR_9369, <=> m02386s[C_s] ,0,'<=>limonene_C10H16',-1000,1000,0,Exchange reactions,,251
+HMR_9370, <=> maltose_C12H22O11 ,-1000,1000,0,Exchange reactions,HMR_9370,R_HMR_9370, <=> m02450s[C_s] ,0,'<=>maltose_C12H22O11',-1000,1000,0,Exchange reactions,,252
+HMR_9371, <=> maltotriose_C18H32O16 ,-1000,1000,0,Exchange reactions,HMR_9371,R_HMR_9371, <=> m02452s[C_s] ,0,'<=>maltotriose_C18H32O16',-1000,1000,0,Exchange reactions,,253
+HMR_9372, <=> methanol_CH4O ,-1000,1000,0,Exchange reactions,HMR_9372,R_HMR_9372, <=> m02470s[C_s] ,0,'<=>methanol_CH4O',-1000,1000,65.49494129,Exchange reactions,,254
+HMR_9373, <=> L-metanephrine_C10H15NO3 ,-1000,1000,0,Exchange reactions,HMR_9373,R_HMR_9373, <=> m02407s[C_s] ,0,'<=>L-metanephrine_C10H15NO3',-1000,1000,0,Exchange reactions,,255
+HMR_9374, <=> 3-mercaptolactate-cysteine-disulfide_C6H11NO5S2 ,-1000,1000,-1000,Exchange reactions,HMR_9374,R_HMR_9374, <=> m00816s[C_s] ,0,'<=>3-mercaptolactate-cysteine-disulfide_C6H11NO5S2',-1000,1000,-1000,Exchange reactions,,256
+HMR_9375, -> methylglyoxal_C3H4O2 ,0,1000,1000,Exchange reactions,HMR_9375,R_HMR_9375, -> m02475s[C_s] ,0,'->methylglyoxal_C3H4O2',0,1000,1000,Exchange reactions,,257
+HMR_9376, <=> NAD+_C21H28N7O14P2 ,-1000,1000,0,Exchange reactions,HMR_9376,R_HMR_9376, <=> m02552s[C_s] ,0,'<=>NAD+_C21H28N7O14P2',-1000,1000,9.175355759,Exchange reactions,,258
+HMR_9377, <=> NADP+_C21H29N7O17P3 ,-1000,1000,0,Exchange reactions,HMR_9377,R_HMR_9377, <=> m02554s[C_s] ,0,'<=>NADP+_C21H29N7O17P3',-1000,1000,0,Exchange reactions,,259
+HMR_9378, <=> nicotinamide_C6H6N2O ,-1000,1000,32.39193538,Exchange reactions,HMR_9378,R_HMR_9378, <=> m02583s[C_s] ,0,'<=>nicotinamide_C6H6N2O',-1000,1000,111.775502,Exchange reactions,,260
+HMR_9379, <=> nifedipine_C17H18N2O6 ,-1000,1000,0,Exchange reactions,HMR_9379,R_HMR_9379, <=> m02587s[C_s] ,0,'<=>nifedipine_C17H18N2O6',-1000,1000,0,Exchange reactions,,261
+HMR_9380, <=> hydroxy-nifedipine_C17H18N2O7 ,-1000,1000,0,Exchange reactions,HMR_9380,R_HMR_9380, <=> m02153s[C_s] ,0,'<=>hydroxy-nifedipine_C17H18N2O7',-1000,1000,0,Exchange reactions,,262
+HMR_9381, <=> NO_NO ,-1000,1000,0,Exchange reactions,HMR_9381,R_HMR_9381, <=> m02609s[C_s] ,0,'<=>NO_NO',-1000,1000,0,Exchange reactions,,263
+HMR_9382, <=> norepinephrine sulfate_C8H11NO6S ,-1000,1000,-1000,Exchange reactions,HMR_9382,R_HMR_9382, <=> m02620s[C_s] ,0,'<=>norepinephrinesulfate_C8H11NO6S',-1000,1000,0,Exchange reactions,,264
+HMR_9383, <=> O2-_O2 ,-1000,1000,-37.71347503,Exchange reactions,HMR_9383,R_HMR_9383, <=> m02631s[C_s] ,0,'<=>O2-_O2',-1000,1000,1000,Exchange reactions,,265
+HMR_9386, <=> hydroxide_HO ,-1000,1000,1000,Exchange reactions,HMR_9386,R_HMR_9386, <=> m02147s[C_s] ,0,'<=>hydroxide_HO',-1000,1000,1000,Exchange reactions,,266
+HMR_9388," <=> ""(1R,2S)-naphthalene 1,2-oxide_C10H8O"" ",-1000,1000,0,Exchange reactions,HMR_9388,R_HMR_9388, <=> m00032s[C_s] ,0,"'<=>(1R,2S)-naphthalene1,2-oxide_C10H8O'",-1000,1000,0,Exchange reactions,,267
+HMR_9389, -> [protein]-L-lysine_C6H12N2O ,0,1000,10.79731179,Exchange reactions,HMR_9389,R_HMR_9389, -> m00204s[C_s] ,0,'->[protein]-L-lysine_C6H12N2O',0,1000,0,Exchange reactions,,268
+HMR_9390, <=> perillyl alcohol_C10H16O ,-1000,1000,0,Exchange reactions,HMR_9390,R_HMR_9390, <=> m02712s[C_s] ,0,'<=>perillylalcohol_C10H16O',-1000,1000,0,Exchange reactions,,269
+HMR_9391, <=> phenylacetylglutamine_C13H16N2O4 ,-1000,1000,0,Exchange reactions,HMR_9391,R_HMR_9391, <=> m02722s[C_s] ,0,'<=>phenylacetylglutamine_C13H16N2O4',-1000,1000,0,Exchange reactions,,270
+HMR_9393, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9393,R_HMR_9393, <=> m02769s[C_s] ,0,'<=>progesterone_C21H30O2',-1000,1000,1000,Exchange reactions,,271
+HMR_9394, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9394,R_HMR_9394, <=> m01742s[C_s] ,0,'<=>D-proline_C5H9NO2',-1000,1000,0,Exchange reactions,,272
+HMR_9395, <=> prostaglandin D2_C20H32O5 ,-1000,1000,-1000,Exchange reactions,HMR_9395,R_HMR_9395, <=> m02783s[C_s] ,0,'<=>prostaglandinD2_C20H32O5',-1000,1000,1000,Exchange reactions,,273
+HMR_9396, <=> prostaglandin E1_C20H34O5 ,-1000,1000,0,Exchange reactions,HMR_9396,R_HMR_9396, <=> m02785s[C_s] ,0,'<=>prostaglandinE1_C20H34O5',-1000,1000,1000,Exchange reactions,,274
+HMR_9397, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9397,R_HMR_9397, <=> m02786s[C_s] ,0,'<=>prostaglandinE2_C20H32O5',-1000,1000,0,Exchange reactions,,275
+HMR_9398, <=> prostaglandin F2alpha_C20H34O5 ,-1000,1000,-1000,Exchange reactions,HMR_9398,R_HMR_9398, <=> m02789s[C_s] ,0,'<=>prostaglandinF2alpha_C20H34O5',-1000,1000,-1000,Exchange reactions,,276
+HMR_9399, <=> pyridoxamine_C8H12N2O2 ,-1000,1000,0,Exchange reactions,HMR_9399,R_HMR_9399, <=> m02815s[C_s] ,0,'<=>pyridoxamine_C8H12N2O2',-1000,1000,0,Exchange reactions,,277
+HMR_9400, <=> pyridoxal_C8H9NO3 ,-1000,1000,-1000,Exchange reactions,HMR_9400,R_HMR_9400, <=> m02813s[C_s] ,0,'<=>pyridoxal_C8H9NO3',-1000,1000,1000,Exchange reactions,,278
+HMR_9401, <=> ribitol_C5H12O5 ,-1000,1000,0,Exchange reactions,HMR_9401,R_HMR_9401, <=> m02841s[C_s] ,0,'<=>ribitol_C5H12O5',-1000,1000,0,Exchange reactions,,279
+HMR_9404, <=> retinoate_C20H28O2 ,-1000,1000,10.79731179,Exchange reactions,HMR_9404,R_HMR_9404, <=> m02833s[C_s] ,0,'<=>retinoate_C20H28O2',-1000,1000,4.732712621,Exchange reactions,,280
+HMR_9405, <=> retinoyl-glucuronide_C26H36O8 ,-1000,1000,0,Exchange reactions,HMR_9405,R_HMR_9405, <=> m02836s[C_s] ,0,'<=>retinoyl-glucuronide_C26H36O8',-1000,1000,0,Exchange reactions,,281
+HMR_9406, -> ribose_C5H10O5 ,0,1000,0,Exchange reactions,HMR_9406,R_HMR_9406, -> m02843s[C_s] ,0,'->ribose_C5H10O5',0,1000,0,Exchange reactions,,282
+HMR_9408, <=> (S)-3-sulfolactate_C3H6O6S ,-1000,1000,0,Exchange reactions,HMR_9408,R_HMR_9408, <=> m00179s[C_s] ,0,'<=>(S)-3-sulfolactate_C3H6O6S',-1000,1000,0,Exchange reactions,,283
+HMR_9409, <=> sphingosylphosphorylcholine_C23H49N2O5P ,-1000,1000,0,Exchange reactions,HMR_9409,R_HMR_9409, <=> m02931s[C_s] ,0,'<=>sphingosylphosphorylcholine_C23H49N2O5P',-1000,1000,-1.343161494,Exchange reactions,,284
+HMR_9410, <=> sphinganine-1-phosphate_C18H40NO5P ,-1000,1000,-1.043553893,Exchange reactions,HMR_9410,R_HMR_9410, <=> m02928s[C_s] ,0,'<=>sphinganine-1-phosphate_C18H40NO5P',-1000,1000,-998.1425608,Exchange reactions,,285
+HMR_9411, <=> sphingosine-1-phosphate_C18H38NO5P ,-1000,1000,-1000,Exchange reactions,HMR_9411,R_HMR_9411, <=> m02930s[C_s] ,0,'<=>sphingosine-1-phosphate_C18H38NO5P',-1000,1000,1000,Exchange reactions,,286
+HMR_9412, <=> serotonin_C10H12N2O ,-1000,1000,0,Exchange reactions,HMR_9412,R_HMR_9412, <=> m02897s[C_s] ,0,'<=>serotonin_C10H12N2O',-1000,1000,0,Exchange reactions,,287
+HMR_9415, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9415,R_HMR_9415, <=> m02943s[C_s] ,0,'<=>succinate_C4H6O4',-1000,1000,0,Exchange reactions,,288
+HMR_9416, <=> sucrose_C12H22O11 ,-1000,1000,0,Exchange reactions,HMR_9416,R_HMR_9416, <=> m02945s[C_s] ,0,'<=>sucrose_C12H22O11',-1000,1000,0,Exchange reactions,,289
+HMR_9417, <=> D-tagatose_C6H12O6 ,-1000,1000,0,Exchange reactions,HMR_9417,R_HMR_9417, <=> m01745s[C_s] ,0,'<=>D-tagatose_C6H12O6',-1000,1000,0,Exchange reactions,,290
+HMR_9418, <=> taurine_C2H7NO3S ,-1000,1000,1000,Exchange reactions,HMR_9418,R_HMR_9418, <=> m02961s[C_s] ,0,'<=>taurine_C2H7NO3S',-1000,1000,0,Exchange reactions,,291
+HMR_9419, <=> paclitaxel_C47H51NO14 ,-1000,1000,0,Exchange reactions,HMR_9419,R_HMR_9419, <=> m02673s[C_s] ,0,'<=>paclitaxel_C47H51NO14',-1000,1000,0,Exchange reactions,,292
+HMR_9420, <=> thiocyanate_CHNS ,-1000,1000,0,Exchange reactions,HMR_9420,R_HMR_9420, <=> m02986s[C_s] ,0,'<=>thiocyanate_CHNS',-1000,1000,0,Exchange reactions,,293
+HMR_9421, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9421,R_HMR_9421, <=> m02980s[C_s] ,0,'<=>THF_C19H23N7O6',-1000,1000,-274.4439579,Exchange reactions,,294
+HMR_9422, <=> thymine_C5H6N2O2 ,-1000,1000,-1000,Exchange reactions,HMR_9422,R_HMR_9422, <=> m02997s[C_s] ,0,'<=>thymine_C5H6N2O2',-1000,1000,-1000,Exchange reactions,,295
+HMR_9423, <=> thymidine_C10H14N2O5 ,-1000,1000,1000,Exchange reactions,HMR_9423,R_HMR_9423, <=> m02996s[C_s] ,0,'<=>thymidine_C10H14N2O5',-1000,1000,1000,Exchange reactions,,296
+HMR_9424, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9424,R_HMR_9424, <=> m02998s[C_s] ,0,'<=>thyroxine_C15H11I4NO4',-1000,1000,0,Exchange reactions,,297
+HMR_9425, <=> tolbutamide_C12H18N2O3S ,-1000,1000,0,Exchange reactions,HMR_9425,R_HMR_9425, <=> m03001s[C_s] ,0,'<=>tolbutamide_C12H18N2O3S',-1000,1000,0,Exchange reactions,,298
+HMR_9426, <=> trehalose_C12H22O11 ,-1000,1000,0,Exchange reactions,HMR_9426,R_HMR_9426, <=> m03039s[C_s] ,0,'<=>trehalose_C12H22O11',-1000,1000,0,Exchange reactions,,299
+HMR_9427, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9427,R_HMR_9427, <=> m03052s[C_s] ,0,'<=>triiodothyronine_C15H12I3NO4',-1000,1000,1000,Exchange reactions,,300
+HMR_9837, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9837,R_HMR_9837, <=> m02839s[C_s] ,0,'<=>reversetriiodthyronine_C15H12I3NO4',-1000,1000,-1000,Exchange reactions,,301
+HMR_9428," <=> ""3,5,3-triiodothyronine-4-sulfate_C15H12I3NO7S"" ",-1000,1000,-1000,Exchange reactions,HMR_9428,R_HMR_9428, <=> m00734s[C_s] ,0,"'<=>3,5,3-triiodothyronine-4-sulfate_C15H12I3NO7S'",-1000,1000,0,Exchange reactions,,302
+HMR_9429, <=> testosterone_C19H28O2 ,-1000,1000,500.4857985,Exchange reactions,HMR_9429,R_HMR_9429, <=> m02969s[C_s] ,0,'<=>testosterone_C19H28O2',-1000,1000,0,Exchange reactions,,303
+HMR_9430, <=> testosterone glucuronide_C25H36O8 ,-1000,1000,0,Exchange reactions,HMR_9430,R_HMR_9430, <=> m02967s[C_s] ,0,'<=>testosteroneglucuronide_C25H36O8',-1000,1000,0,Exchange reactions,,304
+HMR_9431, <=> testosterone sulfate_C19H28O5S ,-1000,1000,0,Exchange reactions,HMR_9431,R_HMR_9431, <=> m02968s[C_s] ,0,'<=>testosteronesulfate_C19H28O5S',-1000,1000,0,Exchange reactions,,305
+HMR_9434, <=> tyramine-O-sulfate_C8H11NO4S ,-1000,1000,0,Exchange reactions,HMR_9434,R_HMR_9434, <=> m03100s[C_s] ,0,'<=>tyramine-O-sulfate_C8H11NO4S',-1000,1000,0,Exchange reactions,,306
+HMR_9435, <=> UDP_C9H14N2O12P2 ,-1000,1000,0,Exchange reactions,HMR_9435,R_HMR_9435, <=> m03106s[C_s] ,0,'<=>UDP_C9H14N2O12P2',-1000,1000,0,Exchange reactions,,307
+HMR_9436, <=> UMP_C9H13N2O9P ,-1000,1000,0,Exchange reactions,HMR_9436,R_HMR_9436, <=> m03114s[C_s] ,0,'<=>UMP_C9H13N2O9P',-1000,1000,0,Exchange reactions,,308
+HMR_9437, <=> uracil_C4H4N2O2 ,-1000,1000,-1000,Exchange reactions,HMR_9437,R_HMR_9437, <=> m03118s[C_s] ,0,'<=>uracil_C4H4N2O2',-1000,1000,-1000,Exchange reactions,,309
+HMR_9438,urea_CH4N2O  <=> ,-1000,1000,1000,Exchange reactions,HMR_9438,R_HMR_9438,m03121s[C_s]  <=> ,0,'urea_CH4N2O<=>',-1000,1000,581.2808928,Exchange reactions,,310
+HMR_9439, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9439,R_HMR_9439, <=> m03123s[C_s] ,0,'<=>uridine_C9H12N2O6',-1000,1000,996.8855698,Exchange reactions,,311
+HMR_9440, <=> UTP_C9H15N2O15P3 ,-1000,1000,-1000,Exchange reactions,HMR_9440,R_HMR_9440, <=> m03130s[C_s] ,0,'<=>UTP_C9H15N2O15P3',-1000,1000,2.078722162,Exchange reactions,,312
+HMR_9441, <=> vitamin D2_C28H44O ,-1000,1000,0,Exchange reactions,HMR_9441,R_HMR_9441, <=> m03141s[C_s] ,0,'<=>vitaminD2_C28H44O',-1000,1000,0,Exchange reactions,,313
+HMR_9442, <=> vitamin D3_C27H44O ,-1000,1000,0,Exchange reactions,HMR_9442,R_HMR_9442, <=> m03142s[C_s] ,0,'<=>vitaminD3_C27H44O',-1000,1000,0,Exchange reactions,,314
+HMR_9443, <=> 12-hydroxydodecanoic acid_C12H24O3 ,-1000,1000,0,Exchange reactions,HMR_9443,R_HMR_9443, <=> m00325s[C_s] ,0,'<=>12-hydroxydodecanoicacid_C12H24O3',-1000,1000,-0.01128781,Exchange reactions,,315
+HMR_9444, <=> 14-hydroxytetradecanoic acid_C14H28O3 ,-1000,1000,-762.9314393,Exchange reactions,HMR_9444,R_HMR_9444, <=> m00371s[C_s] ,0,'<=>14-hydroxytetradecanoicacid_C14H28O3',-1000,1000,-0.027335785,Exchange reactions,,316
+HMR_9445, <=> 16-hydroxyhexadecanoic acid_C16H32O3 ,-1000,1000,0,Exchange reactions,HMR_9445,R_HMR_9445, <=> m00403s[C_s] ,0,'<=>16-hydroxyhexadecanoicacid_C16H32O3',-1000,1000,0,Exchange reactions,,317
+HMR_9446, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9446,R_HMR_9446, <=> m00432s[C_s] ,0,'<=>19-hydroxytestosterone_C19H28O3',-1000,1000,0,Exchange reactions,,318
+HMR_9447, <=> galactosylglycerol_C9H18O8 ,-1000,1000,0,Exchange reactions,HMR_9447,R_HMR_9447, <=> m01913s[C_s] ,0,'<=>galactosylglycerol_C9H18O8',-1000,1000,0,Exchange reactions,,319
+HMR_9448, <=> maltodecaose_C60H102O51 ,-1000,1000,0,Exchange reactions,HMR_9448,R_HMR_9448, <=> m02445s[C_s] ,0,'<=>maltodecaose_C60H102O51',-1000,1000,0,Exchange reactions,,320
+HMR_9449, <=> phenylacetylglycine_C10H11NO3 ,-1000,1000,0,Exchange reactions,HMR_9449,R_HMR_9449, <=> m02723s[C_s] ,0,'<=>phenylacetylglycine_C10H11NO3',-1000,1000,0,Exchange reactions,,321
+HMR_9450, <=> XTP_C10H15N4O15P3 ,-1000,1000,0,Exchange reactions,HMR_9450,R_HMR_9450, <=> m03154s[C_s] ,0,'<=>XTP_C10H15N4O15P3',-1000,1000,0,Exchange reactions,,322
+HMR_9451, <=> itaconate_C5H6O4 ,-1000,1000,0,Exchange reactions,HMR_9451,R_HMR_9451, <=> m02191s[C_s] ,0,'<=>itaconate_C5H6O4',-1000,1000,0,Exchange reactions,,323
+HMR_9452, <=> estriol_C18H24O3 ,-1000,1000,0,Exchange reactions,HMR_9452,R_HMR_9452, <=> m01788s[C_s] ,0,'<=>estriol_C18H24O3',-1000,1000,0,Exchange reactions,,324
+HMR_9453, <=> etiocholanolone_C19H30O2 ,-1000,1000,0,Exchange reactions,HMR_9453,R_HMR_9453, <=> m01800s[C_s] ,0,'<=>etiocholanolone_C19H30O2',-1000,1000,0,Exchange reactions,,325
+HMR_9456, <=> ADP-glucose_C16H25N5O15P2 ,-1000,1000,0,Exchange reactions,HMR_9456,R_HMR_9456, <=> m01286s[C_s] ,0,'<=>ADP-glucose_C16H25N5O15P2',-1000,1000,0,Exchange reactions,,326
+HMR_9457, <=> ADP-mannose_C16H25N5O15P2 ,-1000,1000,0,Exchange reactions,HMR_9457,R_HMR_9457, <=> m01287s[C_s] ,0,'<=>ADP-mannose_C16H25N5O15P2',-1000,1000,0,Exchange reactions,,327
+HMR_9458, <=> D-ribulose_C5H10O5 ,-1000,1000,0,Exchange reactions,HMR_9458,R_HMR_9458, <=> m01743s[C_s] ,0,'<=>D-ribulose_C5H10O5',-1000,1000,0,Exchange reactions,,328
+HMR_9463, <=> glycodeoxycholate_C26H43NO5 ,-1000,1000,-1000,Exchange reactions,HMR_9463,R_HMR_9463, <=> m01989s[C_s] ,0,'<=>glycodeoxycholate_C26H43NO5',-1000,1000,-1000,Exchange reactions,,329
+HMR_9681, <=> L-iduronic acid_C6H10O7 ,-1000,1000,0,Exchange reactions,HMR_9681,R_HMR_9681, <=> m02384s[C_s] ,0,'<=>L-iduronicacid_C6H10O7',-1000,1000,0,Exchange reactions,,330
+HMR_9682, <=> 4-nitrophenyl-phosphate_C6H6NO6P ,-1000,1000,0,Exchange reactions,HMR_9682,R_HMR_9682, <=> m01020s[C_s] ,0,'<=>4-nitrophenyl-phosphate_C6H6NO6P',-1000,1000,0,Exchange reactions,,331
+HMR_9683, <=> 5-L-gamma-glutamyl_C5H7NO3 ,-1000,1000,0,Exchange reactions,HMR_9683,R_HMR_9683, <=> m01111s[C_s] ,0,'<=>5-L-gamma-glutamyl_C5H7NO3',-1000,1000,-410.7112544,Exchange reactions,,332
+HMR_9685, -> D-glucitol_C6H14O6 ,0,1000,0,Exchange reactions,HMR_9685,R_HMR_9685, -> m01682s[C_s] ,0,'->D-glucitol_C6H14O6',0,1000,0,Exchange reactions,,333
+HMR_9687, <=> G00032_(Gal)1(GalNAc)1(GlcNAc)1(Ser/Thr)1 ,-1000,1000,0,Exchange reactions,HMR_9687,R_HMR_9687, <=> m01872s[C_s] ,0,'<=>G00032_(Gal)1(GalNAc)1(GlcNAc)1(Ser/Thr)1',-1000,1000,0,Exchange reactions,,334
+HMR_9689, <=> N-acetyl-D-mannosamine_C8H15NO6 ,-1000,1000,-1000,Exchange reactions,HMR_9689,R_HMR_9689, <=> m02524s[C_s] ,0,'<=>N-acetyl-D-mannosamine_C8H15NO6',-1000,1000,0,Exchange reactions,,335
+HMR_9690, <=> orotate_C5H4N2O4 ,-1000,1000,1000,Exchange reactions,HMR_9690,R_HMR_9690, <=> m02659s[C_s] ,0,'<=>orotate_C5H4N2O4',-1000,1000,4.318665588,Exchange reactions,,336
+HMR_9691, <=> pyridoxal-phosphate_C8H10NO6P ,-1000,1000,0,Exchange reactions,HMR_9691,R_HMR_9691, <=> m02814s[C_s] ,0,'<=>pyridoxal-phosphate_C8H10NO6P',-1000,1000,0,Exchange reactions,,337
+HMR_9692, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9692,R_HMR_9692, <=> m02924s[C_s] ,0,'<=>sperminedialdehyde_C10H20N2O2',-1000,1000,0,Exchange reactions,,338
+HMR_9693, <=> xanthurenate_C10H7NO4 ,-1000,1000,0,Exchange reactions,HMR_9693,R_HMR_9693, <=> m03151s[C_s] ,0,'<=>xanthurenate_C10H7NO4',-1000,1000,0,Exchange reactions,,339
+HMR_9694, <=> homovanillate_C9H10O4 ,-1000,1000,0,Exchange reactions,HMR_9050,R_HMR_9050,m02048r[C_r]  -> ,0,'HDL->',0,1000,0,Exchange reactions,,#N/A
+HMR_9700, <=> n5m2masn_C74H122N7O50X ,-1000,1000,0,Exchange reactions,HMR_9051,R_HMR_9051,m02353r[C_r]  -> ,0,'LDL->',0,1000,0,Exchange reactions,,#N/A
+HMR_9701, <=> coproporphyrin I_C36H38N4O8 ,-1000,1000,0,Exchange reactions,HMR_9028,R_HMR_9028, -> m01569s[C_s] ,0,'->chylomicronremnant',0,1000,0,Exchange reactions,,#N/A
+HMR_9702, -> coproporphyrin III_C36H38N4O8 ,0,1000,0,Exchange reactions,HMR_9030,R_HMR_9030, -> m02047s[C_s] ,0,'->HDLremnant',0,1000,0,Exchange reactions,,#N/A
+HMR_9703, <=> gpi_sig_Y ,-1000,1000,0,Exchange reactions,HMR_9031,R_HMR_9031, -> m02352s[C_s] ,0,'->LDLremnant',0,1000,0,Exchange reactions,,#N/A
+HMR_9704, <=> dgpi_prot heparan sulfate_C41H76N4O41P4R3X ,-1000,1000,0,Exchange reactions,HMR_9037,R_HMR_9037, -> m02746s[C_s] ,0,'->phytanicacid_C20H40O2',0,1000,0,Exchange reactions,,#N/A
+HMR_9705, <=> dem2emgacpail_prot heparan sulfate_C39H70N3O38P3R3X ,-1000,1000,0,Exchange reactions,HMR_9047,R_HMR_9047,m02040s[C_s]  -> ,0,'H2O_H2O->',0,1000,0,Exchange reactions,,#N/A
+HMR_9707, <=> 3-deoxy-D-glycero-D-galacto-2-nonulosonic acid_C9H16O9 ,-1000,1000,0,Exchange reactions,HMR_9080,R_HMR_9080, <=> m03157s[C_s] ,0,'<=>zinc_Zn',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9709, <=> core 5_C16H27N2O10X ,-1000,1000,0,Exchange reactions,HMR_9082,R_HMR_9082, <=> m01413s[C_s] ,0,'<=>Ca2+_Ca',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9710, <=> core 7_C16H27N2O10X ,-1000,1000,0,Exchange reactions,HMR_9094,R_HMR_9094, <=> m01107s[C_s] ,0,'<=>5-hydroxy-L-tryptophan_C11H12N2O3',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9711, <=> core 8_C14H24NO10X ,-1000,1000,0,Exchange reactions,HMR_9123,R_HMR_9123, <=> m02139s[C_s] ,0,"'<=>hyaluronanbiosynthesis,precursor1_C14H21NO11'",-1000,1000,0,Exchange reactions,,#N/A
+HMR_9713, <=> 4-hydroxyretinoic acid_C20H28O3 ,-1000,1000,0,Exchange reactions,HMR_9140,R_HMR_9140, -> m01910s[C_s] ,0,'->galactose_C6H12O6',0,1000,0,Exchange reactions,,#N/A
+HMR_9714, <=> m3gacpail_prot heparan sulfate_ ,-1000,1000,0,Exchange reactions,HMR_9149,R_HMR_9149, <=> m02588s[C_s] ,0,'<=>nitrite_HNO2',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9715, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9152,R_HMR_9152, <=> m01330s[C_s] ,0,'<=>alpha-tocotrienol_C29H44O2',-1000,1000,0.152668149,Exchange reactions,,#N/A
+HMR_9721, <=> dolichol_C20H36O(C5H8)n ,-1000,1000,0,Exchange reactions,HMR_9157,R_HMR_9157, <=> m02050s[C_s] ,0,'<=>hemoglobin',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9729, <=> glycogen_C24H42O21 ,-1000,1000,10.79731179,Exchange reactions,HMR_9169,R_HMR_9169, <=> m02885s[C_s] ,0,'<=>selenate_H2SeO4',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9819, <=> glycerone_C3H6O3 ,-1000,1000,1000,Exchange reactions,HMR_9209,R_HMR_9209, <=> m01818s[C_s] ,0,'<=>fattyacid-retinolpool_CHO2R',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9829,3-methyl-2-oxobutyrate_C5H8O3  -> ,0,1000,0,Exchange reactions,HMR_9211,R_HMR_9211, <=> m00613s[C_s] ,0,"'<=>24R,25-dihyoxyvitaminD2_C28H44O3'",-1000,1000,0,Exchange reactions,,#N/A
+HMR_9830,2-oxo-3-methylvalerate_C6H10O3  -> ,0,1000,0,Exchange reactions,HMR_9223,R_HMR_9223, <=> m00998s[C_s] ,0,'<=>4-hydroxy-debrisoquine_C10H13N3O',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9831,4-methyl-2-oxopentanoate_C6H10O3  -> ,0,1000,0,Exchange reactions,HMR_9225,R_HMR_9225, <=> m02182s[C_s] ,0,'<=>isocaproic-aldehyde_C6H12O',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9844, <=> carbonate_H2CO3 ,-1000,1000,1000,Exchange reactions,HMR_9233,R_HMR_9233, <=> m01109s[C_s] ,0,'<=>5-hydroxy-omeprazole_C17H19N3O4S',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9849, <=> prostaglandin F1alpha_C20H36O5 ,-1000,1000,0,Exchange reactions,HMR_9244,R_HMR_9244, <=> m03096s[C_s] ,0,'<=>typeIIIAglycolipid_C79H135N4O46R',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9851, -> UppppU_C18H26N4O23P4 ,0,1000,495.5731022,Exchange reactions,HMR_9245,R_HMR_9245, <=> m03098s[C_s] ,0,'<=>typeIIIAb_C93H158N5O56R',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9859, <=> prostaglandin C1_C20H32O4 ,-1000,1000,-1000,Exchange reactions,HMR_9248,R_HMR_9248, <=> m02902s[C_s] ,0,"'<=>sialyl(1,3)-sialyl(2,6)-galactosylgloboside_C73H121N4O44R'",-1000,1000,0,Exchange reactions,,#N/A
+HMR_9862, <=> 20-hydroxy-arachidonate_C20H32O3 ,-1000,1000,0,Exchange reactions,HMR_9249,R_HMR_9249, <=> m02903s[C_s] ,0,"'<=>sialyl(2,3)-sialyl(2,6)-galactosylgloboside_C73H123N4O44R'",-1000,1000,0,Exchange reactions,,#N/A
+HMR_9863, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9250,R_HMR_9250, <=> m00744s[C_s] ,0,"'<=>3,8-LD1_C67H111N4O39R'",-1000,1000,0,Exchange reactions,,#N/A
+HMR_9872, <=> 3-keto-beta-D-galactose_C6H10O6 ,-1000,1000,0,Exchange reactions,HMR_9251,R_HMR_9251, <=> m01711s[C_s] ,0,'<=>disialylgalactosylgloboside_C73H123N4O44R',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9879, <=> ,-1000,1000,-1000,Exchange reactions,HMR_9252,R_HMR_9252, <=> m03138s[C_s] ,0,'<=>VI3NeuAc-nLc6Cer_C70H118N4O41R',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9880, -> L-pipecolate_C6H11NO2 ,0,1000,0,Exchange reactions,HMR_9261,R_HMR_9261, <=> m01309s[C_s] ,0,'<=>aldosterone_C21H28O5',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9730, -> ,0,1000,0,Exchange reactions,HMR_9265,R_HMR_9265, <=> m01344s[C_s] ,0,'<=>antipyrine_C11H12N2O',-1000,1000,0,Exchange reactions,,#N/A
+HMR_9883, -> ,0,1000,0,Exchange reactions,HMR_9278,R_HMR_9278, <=> m01418s[C_s] ,0,'<=>calcitroicacid_',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9289,R_HMR_9289, <=> m01617s[C_s] ,0,'<=>coumarin_C9H6O2',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9293,R_HMR_9293, <=> m01615s[C_s] ,0,'<=>cortisol_C21H30O5',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9294,R_HMR_9294, <=> m01614s[C_s] ,0,'<=>corticosterone_C21H30O4',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9299,R_HMR_9299, <=> m01647s[C_s] ,0,'<=>debrisoquin_C10H13N3',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9304,R_HMR_9304, <=> m01695s[C_s] ,0,'<=>digalactosylceramidesulfate_C31H56NO16SR',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9306,R_HMR_9306, <=> m01768s[C_s] ,0,'<=>edaravone_C10H10N2O',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9319,R_HMR_9319, <=> m02164s[C_s] ,0,'<=>III3Fuc-nLc6Cer_C65H112N3O37R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9320,R_HMR_9320, <=> m01999s[C_s] ,0,'<=>glycolipid_C51H89N2O27R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9321,R_HMR_9321, <=> m01850s[C_s] ,0,'<=>fucacgalfucgalacglcgalglusideheparansulfate_C65H112N3O36R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9322,R_HMR_9322, <=> m02199s[C_s] ,0,"'<=>IV3NeuAc,III3Fuc-nLc4Cer_(Gal)2(Glc)1(GlcNAc)1(LFuc)1(Neu5Ac)1(Cer)1'",-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9323,R_HMR_9323, <=> m02198s[C_s] ,0,"'<=>IV3Neu5Ac,III4Fuc-Lc4Cer_C62H106N3O35R'",-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9324,R_HMR_9324, <=> m01851s[C_s] ,0,'<=>fucfuc132galacglcgal14acglcgalglusideheparansulfate_C71H122N3O41R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9325,R_HMR_9325, <=> m01852s[C_s] ,0,'<=>fucfucfucgalacglc13galacglcgal14acglcgalglusideheparansulfate_C91H155N4O55R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9326,R_HMR_9326, <=> m01853s[C_s] ,0,'<=>fucfucfucgalacglcgal14acglcgalglusideheparansulfate_C77H132N3O45R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9327,R_HMR_9327, <=> m02331s[C_s] ,0,'<=>lacto-N-fucopentaosyl-III-ceramide_C51H89N2O27R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9328,R_HMR_9328, <=> m01859s[C_s] ,0,'<=>fucgalfucgalacglcgalglusideheparansulfate_C63H109N2O36R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9329,R_HMR_9329, <=> m01861s[C_s] ,0,'<=>fucosyl-galactosylgloboside_C57H99N2O32R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9331,R_HMR_9331, <=> m01919s[C_s] ,0,'<=>gal-glcnac-gal-globoside_C65H112N3O38R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9332,R_HMR_9332, <=> m01914s[C_s] ,0,'<=>galfuc12gal14acglcgalglusideheparansulfate_C57H99N2O32R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9333,R_HMR_9333, <=> m01915s[C_s] ,0,'<=>galfucgalacglcgal14acglcgalglusideheparansulfate_C71H122N3O42R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9334,R_HMR_9334, <=> m01916s[C_s] ,0,'<=>galgalfucfucgalacglcgalacglcgal14acglcgalglusideheparansulfate_C97H165N4O61R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9335,R_HMR_9335, <=> m01917s[C_s] ,0,'<=>galgalgalthcrmheparansulfate_C55H96NO33R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9339,R_HMR_9339, <=> m01945s[C_s] ,0,'<=>GD1c_C67H113N4O39R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9344,R_HMR_9344, <=> m02018s[C_s] ,0,'<=>GP1c_C100H164N7O63R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9345,R_HMR_9345, <=> m02019s[C_s] ,0,'<=>GP1calpha_C100H164N7O63R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9349,R_HMR_9349, <=> m02028s[C_s] ,0,'<=>GT1a_C78H130N5O47R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9356,R_HMR_9356, <=> m03113s[C_s] ,0,'<=>umbelliferone_C9H6O3',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9384,R_HMR_9384, <=> m01244s[C_s] ,0,'<=>9-O-acetylated-GD3_C55H92N3O30R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9385,R_HMR_9385, <=> m01245s[C_s] ,0,'<=>9-O-acetylated-GT3_C66H109N4O38R',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9387,R_HMR_9387, <=> m02653s[C_s] ,0,'<=>omeprazole_C17H19N3O3S',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9414,R_HMR_9414, <=> m02937s[C_s] ,0,'<=>starchstructure2_C18H32O16',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9432,R_HMR_9432, <=> m02991s[C_s] ,0,'<=>thiosulfate_H2S2O3',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9454,R_HMR_9454, <=> m01740s[C_s] ,0,'<=>D-ornithine_C5H12N2O2',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9455,R_HMR_9455, <=> m01640s[C_s] ,0,'<=>D-arginine_C6H14N4O2',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9460,R_HMR_9460, <=> m01621s[C_s] ,0,'<=>creatinine_C4H7N3O',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9462,R_HMR_9462, <=> m02155s[C_s] ,0,'<=>hyodeoxycholate_C24H40O4',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9684,R_HMR_9684, -> m01303s[C_s] ,0,'->agmatine_C5H14N4',0,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9686,R_HMR_9686, <=> m01870s[C_s] ,0,'<=>G00022_(GlcNAc)7(Man)3(Asn)1',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9688,R_HMR_9688, <=> m01887s[C_s] ,0,'<=>G00086_(Gal)4(Glc)1(GlcNAc)3(LFuc)3(Cer)1',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9694,R_HMR_9694, <=> m02137s[C_s] ,0,'<=>homovanillate_C9H10O4',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9695,R_HMR_9695, <=> m01874s[C_s] ,0,'<=>G00040_(Gal)3(Glc)1(GlcNAc)1(LFuc)2(Cer)1',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9696,R_HMR_9696, <=> m01881s[C_s] ,0,'<=>G00079_(Gal)4(Glc)1(GlcNAc)3(LFuc)2(Cer)1',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9697,R_HMR_9697, <=> m01883s[C_s] ,0,'<=>G00082_(Gal)3(Glc)1(GlcNAc)2(LFuc)3(Cer)1',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9698,R_HMR_9698, <=> m01884s[C_s] ,0,'<=>G00083_(Gal)4(Glc)1(GlcNAc)2(LFuc)1(Cer)1',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9699,R_HMR_9699, <=> m03131s[C_s] ,0,'<=>V3(NeuAc)2-Gb5Cer_(Gal)3(GalNAc)1(Glc)1(Neu5Ac)2(Cer)1',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9700,R_HMR_9700, <=> m02516s[C_s] ,0,'<=>n5m2masn_C74H122N7O50X',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9701,R_HMR_9701, <=> m01603s[C_s] ,0,'<=>coproporphyrinI_C36H38N4O8',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9702,R_HMR_9702, -> m01604s[C_s] ,0,'->coproporphyrinIII_C36H38N4O8',0,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9703,R_HMR_9703, <=> m02022s[C_s] ,0,'<=>gpi_sig_Y',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9704,R_HMR_9704, <=> m01687s[C_s] ,0,'<=>dgpi_protheparansulfate_C41H76N4O41P4R3X',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9705,R_HMR_9705, <=> m01665s[C_s] ,0,'<=>dem2emgacpail_protheparansulfate_C39H70N3O38P3R3X',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9706,R_HMR_9706, <=> m01955s[C_s] ,0,"'<=>glcnac-alpha-1,4-core2_C30H50N3O20X'",-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9707,R_HMR_9707, <=> m00771s[C_s] ,0,'<=>3-deoxy-D-glycero-D-galacto-2-nonulosonicacid_C9H16O9',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9708,R_HMR_9708, <=> m02458s[C_s] ,0,'<=>eumelanin',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9709,R_HMR_9709, <=> m01610s[C_s] ,0,'<=>core5_C16H27N2O10X',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9710,R_HMR_9710, <=> m01612s[C_s] ,0,'<=>core7_C16H27N2O10X',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9711,R_HMR_9711, <=> m01613s[C_s] ,0,'<=>core8_C14H24NO10X',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9712,R_HMR_9712, <=> m02462s[C_s] ,0,'<=>mem2emgacpail_protheparansulfate_C61H110N3O44P3R3X',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9713,R_HMR_9713, <=> m01006s[C_s] ,0,'<=>4-hydroxyretinoicacid_C20H28O3',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9714,R_HMR_9714, <=> m02434s[C_s] ,0,'<=>m3gacpail_protheparansulfate_',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9715,R_HMR_9715, <=> m02926s[C_s] ,0,'<=>spermine_C10H26N4',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9721,R_HMR_9721, <=> m01730s[C_s] ,0,'<=>dolichol_C20H36O(C5H8)n',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9729,R_HMR_9729, <=> m03161s[C_s] ,0,'<=>glycogen_C24H42O21',-1000,1000,1.526681491,Exchange reactions,,#N/A
+,,,,,,HMR_9819,R_HMR_9819, <=> m01984s[C_s] ,0,'<=>glycerone_C3H6O3',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9829,R_HMR_9829,m00824s[C_s]  -> ,0,'3-methyl-2-oxobutyrate_C5H8O3->',0,1000,644.1116224,Exchange reactions,,#N/A
+,,,,,,HMR_9830,R_HMR_9830,m00669s[C_s]  -> ,0,'2-oxo-3-methylvalerate_C6H10O3->',0,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9831,R_HMR_9831,m01013s[C_s]  -> ,0,'4-methyl-2-oxopentanoate_C6H10O3->',0,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9841,R_HMR_9841, <=> m02952s[C_s] ,0,'<=>sulfotaurolithocholate_C26H45NO8S2',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9843,R_HMR_9843, <=> m02402s[C_s] ,0,'<=>lithocholate_C24H40O3',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9844,R_HMR_9844, <=> m01421s[C_s] ,0,'<=>carbonate_H2CO3',-1000,1000,0.292131484,Exchange reactions,,#N/A
+,,,,,,HMR_9845,R_HMR_9845, <=> m03132s[C_s] ,0,"'<=>V3Fuc,III3Fuc-nLc6Cer_(Gal)3(Glc)1(GlcNAc)2(LFuc)2(Cer)1'",-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9849,R_HMR_9849, <=> m02788s[C_s] ,0,'<=>prostaglandinF1alpha_C20H36O5',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9851,R_HMR_9851, -> m03185n[C_n] ,0,'->UppppU_C18H26N4O23P4',0,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9857,R_HMR_9857, <=> m02951s[C_s] ,0,'<=>sulfoglycolithocholate_C26H42NO7S',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9859,R_HMR_9859, <=> m02780s[C_s] ,0,'<=>prostaglandinC1_C20H32O4',-1000,1000,-1000,Exchange reactions,,#N/A
+,,,,,,HMR_9860,R_HMR_9860, <=> m03094s[C_s] ,0,'<=>typeIIBantigen_(Gal)3(Glc)1(GlcNAc)1(LFuc)1(Cer)1',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9862,R_HMR_9862, <=> m00591s[C_s] ,0,'<=>20-hydroxy-arachidonate_C20H32O3',-1000,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9863,R_HMR_9863, <=> m02787s[C_s] ,0,'<=>prostaglandinE3_C20H30O5',-1000,1000,-0.068305214,Exchange reactions,,#N/A
+,,,,,,HMR_9872,R_HMR_9872, <=> m00810s[C_s] ,0,'<=>3-keto-beta-D-galactose_C6H10O6',-1000,1000,-9.175355759,Exchange reactions,,#N/A
+,,,,,,HMR_9879,R_HMR_9879, <=> m01802s[C_s] ,0,'<=>FAD_C27H33N9O15P2',-1000,1000,1.526681491,Exchange reactions,,#N/A
+,,,,,,HMR_9880,R_HMR_9880, -> m02413s[C_s] ,0,'->L-pipecolate_C6H11NO2',0,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9730,R_HMR_9730,m01308s[C_s]  -> ,0,'albumin_->',0,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9884,R_HMR_9884,m01351c[C_c]  -> ,0,'apoB100->',0,1000,0,Exchange reactions,,#N/A
+,,,,,,HMR_9883,Fake lipid droplet degradation, -> m02958c[C_c] ,0,'->TAG-LDpool_C6H5O6R3',0,1000,0.879375726,Exchange reactions,,#N/A
